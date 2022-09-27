@@ -19,6 +19,7 @@ fortunescires
 globaleventshub
 gtu.edu.tr
 highscope
+hspublications
 hspcorporation
 ijoast
 ijochmed
@@ -30,8 +31,10 @@ jomh.net
 journalsmailer
 jowmns
 jpsybehav
+jscimedcentralcorp
 juniperpublishers
 keystonesymposia
+manusubmit
 medicinejournal.info
 oaaustinpublication
 phenosys
