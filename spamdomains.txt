@@ -1,6 +1,7 @@
 articleslibrary
 biomedgrid
 biomedres.com
+biomedres.us
 biorbyt
 compubio
 conferencesevent
