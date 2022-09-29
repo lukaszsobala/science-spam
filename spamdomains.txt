@@ -1,4 +1,5 @@
 articleslibrary
+bioaccent
 biomedgrid
 biomedres.com
 biomedres.us
@@ -41,6 +42,7 @@ oaaustinpublication
 phenosys
 plos.online
 ptzarchive
+ptzopen
 rdinnomatching
 rdinospin
 researchentry
