@@ -50,6 +50,8 @@ researchentry
 respaper.email
 scholarlyopenaccessjournal
 science-europe.net
+scientificliterature
+scientificsliterature
 scimedcentral
 unitedevents.uk
 upjac.com
