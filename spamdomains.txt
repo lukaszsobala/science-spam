@@ -1,8 +1,7 @@
 articleslibrary
 bioaccent
 biomedgrid
-biomedres.com
-biomedres.us
+biomedres
 biorbyt
 compubio
 conferencemeets
@@ -54,7 +53,7 @@ scientificliterature
 scientificsliterature
 scimedcentral
 unitedevents.uk
-upjac.com
+upjac
 valleolona
 virongy
 wjgnet
