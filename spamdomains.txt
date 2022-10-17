@@ -23,6 +23,7 @@ gtu.edu.tr
 highscope
 hspublications
 hspcorporation
+hspcopen
 ijoast
 ijochmed
 imrpress
