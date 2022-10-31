@@ -21,9 +21,11 @@ fortuneonline
 fortunescires
 globaleventshub
 gtu.edu.tr
+heighpubs
 highscope
 hspublications
 hspcorporation
+hspcmail
 hspcopen
 hspioa
 ijoast
