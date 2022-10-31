@@ -25,6 +25,7 @@ highscope
 hspublications
 hspcorporation
 hspcopen
+hspioa
 ijoast
 ijochmed
 imrpress
@@ -57,6 +58,7 @@ scientificsliterature
 scimedcentral
 smgebooks
 smjoa
+thehspc
 unitedevents.uk
 upjac
 valleolona
