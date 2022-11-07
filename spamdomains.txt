@@ -60,6 +60,7 @@ scientificsliterature
 scimedcentral
 smgebooks
 smjoa
+smjournals
 thehspc
 unitedevents.uk
 upjac
