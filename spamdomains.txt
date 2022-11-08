@@ -51,6 +51,7 @@ ptzarchive
 ptzopen
 rdinnomatching
 rdinospin
+researchcatalyst
 researchentry
 respaper.email
 scholarlyopenaccessjournal
