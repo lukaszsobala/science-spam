@@ -42,6 +42,7 @@ jscimedcentralcorp
 jscimedcorp
 juniperpublishers
 keystonesymposia
+manurev
 manusubmit
 medicinejournal.info
 oaaustinpublication
