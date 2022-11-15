@@ -38,8 +38,7 @@ jomh.net
 journalsmailer
 jowmns
 jpsybehav
-jscimedcentralcorp
-jscimedcorp
+jscimed
 juniperpublishers
 keystonesymposia
 manurev
@@ -64,6 +63,7 @@ scimedcentral
 smgebooks
 smjoa
 smjournals
+subartikle
 thehspc
 unitedevents.uk
 upjac
