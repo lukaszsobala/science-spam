@@ -64,7 +64,7 @@ scientificsliterature
 scimedcentral
 smgebooks
 smjoa
-smjournals
+smjournal
 subartikle
 thehspc
 unitedevents.uk
