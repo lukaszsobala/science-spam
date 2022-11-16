@@ -43,6 +43,7 @@ jscimed
 juniperpublishers
 keystonesymposia
 manurev
+manuscript-submission.com
 manusubmit
 medicinejournal.info
 oaaustinpublication
