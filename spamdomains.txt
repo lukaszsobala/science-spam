@@ -80,6 +80,7 @@ researchentry
 respaper
 sanyoubio
 scholarlyopenaccessjournal
+scholarspodium
 science-europe
 scientificliterature
 scientificsliterature
