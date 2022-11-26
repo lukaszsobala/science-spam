@@ -11,9 +11,7 @@ conferencesevent
 conferencesmailer
 conscieng
 crgmeetings
-crimsonpublisher
-crimsonscience
-crimsonscientific
+crimson
 eoics
 eurasiaconference
 fncon
