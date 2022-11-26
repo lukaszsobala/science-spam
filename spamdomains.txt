@@ -45,6 +45,7 @@ manuscript-submission.com
 manusubmit
 medicinejournal.info
 oaaustin
+oaj
 phenosys
 plos.online
 ptza
