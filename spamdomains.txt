@@ -36,7 +36,7 @@ journalsmailer
 jowmns
 jpsybehav
 jscimed
-juniperpub
+juniper
 keystonesymposia
 manurev
 manuscript-submission.com
@@ -44,6 +44,8 @@ manusubmit
 medicinejournal.info
 oaaustin
 oaj
+openaccessjournal
+papersubmission
 phenosys
 plos.online
 ptza
@@ -79,7 +81,6 @@ researchcatalyst
 researchentry
 respaper
 sanyoubio
-scholarlyopenaccessjournal
 scholarspodium
 science-europe
 scientificliterature
