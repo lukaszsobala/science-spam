@@ -48,6 +48,7 @@ openaccessjournal
 papersubmission
 phenosys
 plos.online
+ptechzoa
 ptza
 ptzb
 ptzc
