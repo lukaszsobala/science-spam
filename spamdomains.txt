@@ -92,6 +92,7 @@ scires
 smgebooks
 smjoa
 smjournal
+submitscience
 subartikle
 thehspc
 unitedevents
