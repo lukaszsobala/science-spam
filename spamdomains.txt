@@ -27,6 +27,7 @@ hspc
 hspi
 ijoast
 ijochmed
+ijoidt
 imrpress
 inospin
 intjtet
@@ -42,6 +43,7 @@ keystonesymposia
 manurev
 manuscript-submission.com
 manusubmit
+medicalres
 medicinejournal.info
 oaaustin
 oaj
