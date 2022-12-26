@@ -83,6 +83,7 @@ rdinnomatching
 rdinospin
 researchcatalyst
 researchentry
+researchpub
 respaper
 sanyoubio
 scholarspodium
