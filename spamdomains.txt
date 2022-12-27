@@ -6,6 +6,7 @@ bioaccent
 biomedgrid
 biomedres
 biorbyt
+clinicals
 compubio
 conferencemeets
 conferencesevent
@@ -34,6 +35,7 @@ intjtet
 irisopen
 joeece
 jomh.net
+journalres
 journalsmailer
 jowmns
 jpsybehav
