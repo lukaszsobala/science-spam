@@ -37,6 +37,7 @@ joeece
 jomh.net
 journalres
 journalsmailer
+journalsr
 jowmns
 jpsybehav
 jscimed
