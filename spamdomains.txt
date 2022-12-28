@@ -7,6 +7,7 @@ biomedgrid
 biomedres
 biorbyt
 clinicals
+clinmed
 compubio
 conferencemeets
 conferencesevent
@@ -42,7 +43,9 @@ jowmns
 jpsybehav
 jscimed
 juniper
+jwros
 keystonesymposia
+longdom
 manurev
 manuscript-submission.com
 manusubmit
