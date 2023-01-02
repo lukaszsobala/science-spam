@@ -50,11 +50,14 @@ manurev
 manuscript-submission.com
 manusubmit
 medicalres
+medicalsci
 medicinejournal.info
+medschol
 oaaustin
 oaj
-openaccessjournal
+openaccess
 papersubmission
+peerres
 phenosys
 plos.online
 ptechzoa
