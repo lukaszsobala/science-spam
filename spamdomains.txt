@@ -107,6 +107,7 @@ smjournal
 submitscience
 subartikle
 thehspc
+thescientific
 unitedevents
 upjac
 valleolona
