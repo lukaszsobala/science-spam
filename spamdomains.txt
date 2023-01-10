@@ -6,6 +6,7 @@ bioaccent
 biomedgrid
 biomedres
 biorbyt
+clinicalres
 clinicals
 clinmed
 compubio
