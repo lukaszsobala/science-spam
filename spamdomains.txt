@@ -26,6 +26,7 @@ gmexpo
 gtu.edu.tr
 heighpub
 highscope
+hilaris
 hspub
 hspc
 hspi
@@ -51,6 +52,7 @@ longdom
 manurev
 manuscript-submission.com
 manusubmit
+mathews
 medicalres
 medicalsci
 medicinejournal.info
