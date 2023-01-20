@@ -58,6 +58,7 @@ medicalres
 medicalsci
 medicinejournal.info
 medschol
+netwrk
 oaaustin
 oaj
 online
@@ -97,7 +98,6 @@ rdinnomatching
 rdinospin
 researchcatalyst
 researchentry
-researchnetwrk
 researchpub
 respaper
 sanyoubio
