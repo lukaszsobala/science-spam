@@ -8,6 +8,7 @@ biomedres
 biorbyt
 clinicalres
 clinicals
+clinicsearch
 clinmed
 compubio
 conferencemeets
@@ -59,6 +60,7 @@ medicinejournal.info
 medschol
 oaaustin
 oaj
+online
 openaccess
 papersubmission
 peerres
