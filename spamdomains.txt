@@ -65,7 +65,6 @@ openaccess
 papersubmission
 peerres
 phenosys
-plos.online
 ptechzoa
 ptza
 ptzb
