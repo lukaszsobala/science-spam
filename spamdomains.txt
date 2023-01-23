@@ -38,6 +38,7 @@ imrpress
 inospin
 intjtet
 irisopen
+jfood
 joeece
 jomh.net
 journalres
@@ -61,7 +62,7 @@ medschol
 netwrk
 oaaustin
 oaj
-online
+.online
 openaccess
 papersubmission
 peerres
