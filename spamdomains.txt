@@ -98,6 +98,7 @@ ptz_
 rdinnomatching
 rdinospin
 researchcatalyst
+researchemail
 researchentry
 researchpub
 respaper
