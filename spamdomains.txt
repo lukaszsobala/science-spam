@@ -116,7 +116,6 @@ smjournal
 studyimpact
 submitscience
 subartikle
-thehspc
 thescientific
 unitedevents
 upjac
