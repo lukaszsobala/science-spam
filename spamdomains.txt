@@ -103,6 +103,7 @@ researchentry
 researchpub
 resonline
 respaper
+resscience
 sanyoubio
 scholarspodium
 science-europe
