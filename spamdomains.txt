@@ -110,12 +110,14 @@ scientificliterature
 scientificsliterature
 scimedcentral
 scires
+scitech
 smgebooks
 smjoa
 smjournal
 studyimpact
 submitscience
 subartikle
+techdata
 thescientific
 unitedevents
 upjac
