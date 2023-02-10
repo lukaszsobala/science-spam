@@ -101,6 +101,7 @@ researchcatalyst
 researchemail
 researchentry
 researchpub
+researchsubmi
 resonline
 respaper
 resscience
@@ -115,6 +116,7 @@ scitech
 smgebooks
 smjoa
 smjournal
+speakerscongress
 studyimpact
 submitscience
 subartikle
