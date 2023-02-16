@@ -1,3 +1,5 @@
+acad-pub
+acadpub
 aminer
 articleslibrary
 article.email
