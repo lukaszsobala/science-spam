@@ -8,6 +8,7 @@ bioaccent
 biomedgrid
 biomedres
 biorbyt
+citemanu
 clinicalres
 clinicals
 clinicsearch
