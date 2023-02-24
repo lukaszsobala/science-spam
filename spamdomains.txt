@@ -106,6 +106,7 @@ rdinospin
 researchcatalyst
 researchemail
 researchentry
+researchguide
 researchpub
 researchsubmi
 resonline
