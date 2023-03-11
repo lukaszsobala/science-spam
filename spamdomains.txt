@@ -21,6 +21,7 @@ conscieng
 crgmeetings
 crimson
 eoics
+eresearch
 eurasiaconference
 fncon
 fortuneo
