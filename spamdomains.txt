@@ -101,6 +101,7 @@ ptzx
 ptzy
 ptzz
 ptz_
+ptz.
 quality
 rdinnomatching
 rdinospin
