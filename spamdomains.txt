@@ -122,6 +122,7 @@ scientificsliterature
 scimedcentral
 scires
 scitech
+signosis
 smgebooks
 smjoa
 smjournal
