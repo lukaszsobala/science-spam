@@ -25,6 +25,7 @@ eresearch
 eurasiaconference
 fncon
 fortuneo
+fortuner
 fortunescires
 globaleventshub
 gmexpo
