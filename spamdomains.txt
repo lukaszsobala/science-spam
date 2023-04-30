@@ -118,6 +118,7 @@ resscience
 sanyoubio
 scholarspodium
 science-europe
+sciencesub
 scientificliterature
 scientificsliterature
 scimedcentral
