@@ -27,6 +27,7 @@ fncon
 fortuneo
 fortuner
 fortunescires
+forums.info
 globaleventshub
 gmexpo
 gtu.edu.tr
@@ -44,6 +45,7 @@ imrpress
 indexmanu
 inospin
 intjtet
+invites
 irisopen
 jfood
 joeece
