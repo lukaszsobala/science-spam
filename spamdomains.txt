@@ -59,6 +59,7 @@ jscimed
 juniper
 jwros
 keystonesymposia
+library.com
 longdom
 manurev
 manuscript-submission.com
@@ -128,6 +129,7 @@ scimedcentral
 scires
 scitech
 signosis
+sll
 smgebooks
 smjoa
 smjournal
