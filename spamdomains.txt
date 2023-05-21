@@ -134,6 +134,7 @@ smgebooks
 smjoa
 smjournal
 speakerscongress
+submission
 submitscience
 subartikle
 techdata
