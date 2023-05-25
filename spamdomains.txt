@@ -23,6 +23,7 @@ crimson
 eoics
 eresearch
 eurasiaconference
+exploration
 fncon
 fortuneo
 fortuner
