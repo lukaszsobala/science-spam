@@ -24,6 +24,7 @@ eoics
 eresearch
 eurasiaconference
 exploration
+fluotics
 fncon
 fortuneo
 fortuner
