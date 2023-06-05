@@ -45,6 +45,7 @@ impact
 imrpress
 indexmanu
 inospin
+intj3a
 intjtet
 invites
 irisopen
@@ -59,7 +60,6 @@ jpsybehav
 jscimed
 juniper
 jwros
-keystonesymposia
 library.com
 longdom
 manurev
