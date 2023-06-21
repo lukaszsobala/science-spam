@@ -125,6 +125,7 @@ sanyoubio
 scholarspodium
 science-europe
 sciencesub
+scienceonline
 scientificliterature
 scientificsliterature
 scimedcentral
