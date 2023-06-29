@@ -3,11 +3,13 @@ acadpub
 aminer
 articleslibrary
 article.email
-austinjournalpub
+austinjournal
+austinpub
 bioaccent
 biomedgrid
 biomedres
 biorbyt
+canutillo
 citemanu
 clinicalres
 clinicals
