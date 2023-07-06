@@ -10,6 +10,7 @@ biomedgrid
 biomedres
 biorbyt
 canutillo
+casereports
 citemanu
 clinicalres
 clinicals
