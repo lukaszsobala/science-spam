@@ -10,7 +10,7 @@ biomedgrid
 biomedres
 biorbyt
 canutillo
-casereports
+casereport
 citemanu
 clinicalres
 clinicals
@@ -45,6 +45,7 @@ hspi
 ijoast
 ijochmed
 ijoidt
+imagesreport
 impact
 imrpress
 indexmanu
