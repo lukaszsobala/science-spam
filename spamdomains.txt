@@ -141,6 +141,7 @@ smgebooks
 smjoa
 smjournal
 speakerscongress
+study
 submission
 submitscience
 subartikle
