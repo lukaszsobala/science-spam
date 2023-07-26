@@ -84,6 +84,7 @@ openaccess
 papersubmission
 peerres
 phenosys
+polymer
 ptechzoa
 ptza
 ptzb
@@ -148,6 +149,7 @@ submitscience
 subartikle
 techdata
 thescientific
+torrestech
 unitedevents
 upjac
 valleolona
