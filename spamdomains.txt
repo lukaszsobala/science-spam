@@ -45,6 +45,7 @@ hspi
 ijoast
 ijochmed
 ijoidt
+ijompem
 imagesreport
 impact
 imrpress
@@ -67,6 +68,7 @@ juniper
 jwros
 library.com
 longdom
+lupine
 manurev
 manuscript-submission.com
 manusubmit
