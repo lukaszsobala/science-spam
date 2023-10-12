@@ -26,6 +26,7 @@ conferencesmailer
 conscieng
 crgmeetings
 crimson
+easyaca
 eoics
 eresearch
 eurasiaconference
@@ -47,6 +48,7 @@ hilaris
 hspub
 hspc
 hspi
+iairias
 ijoast
 ijochmed
 ijoidt
@@ -127,6 +129,7 @@ pubreq
 quality
 rdinnomatching
 rdinospin
+resarticle
 researchcatalyst
 researchemail
 researchentry
