@@ -1,4 +1,5 @@
 aaphysiol
+abc
 acad-pub
 acadpub
 accsci
@@ -40,6 +41,7 @@ fortunescires
 forums.info
 globaleventshub
 gmexpo
+grmsd
 gtu.edu.tr
 gynobstet
 heighpub
@@ -139,6 +141,7 @@ researchsubmi
 resonline
 respaper
 resscience
+reviewres
 sanyoubio
 scholarspodium
 science-europe
