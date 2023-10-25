@@ -25,6 +25,7 @@ conferencemeets
 conferencesevent
 conferencesmailer
 conscieng
+covaris
 crgmeetings
 crimson
 easyaca
