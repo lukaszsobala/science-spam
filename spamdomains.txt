@@ -137,6 +137,7 @@ researchcatalyst
 researchemail
 researchentry
 researchguide
+researchoutreach
 researchpub
 researchsubmi
 resonline
@@ -145,6 +146,7 @@ resscience
 reviewres
 sanyoubio
 scholarspodium
+sciani
 science-europe
 sciencesub
 scienceonline
