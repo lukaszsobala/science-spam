@@ -28,6 +28,7 @@ conscieng
 covaris
 crgmeetings
 crimson
+dataplan
 easyaca
 eoics
 eresearch
@@ -133,6 +134,7 @@ quality
 rdinnomatching
 rdinospin
 resarticle
+resdata
 researchcatalyst
 researchemail
 researchentry
