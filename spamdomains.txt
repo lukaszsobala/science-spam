@@ -4,6 +4,7 @@ acad-pub
 acadpub
 accsci
 aminer
+amjece
 apac
 articleslibrary
 article.email
