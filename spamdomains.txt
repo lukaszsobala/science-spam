@@ -94,7 +94,7 @@ oaaustin
 oaj
 .online
 openaccess
-papersubmission
+paper
 peerres
 phenosys
 plantsj
@@ -128,6 +128,7 @@ ptzy
 ptzz
 ptz_
 ptz.
+publish
 pubreq
 quality
 rdinnomatching
@@ -140,7 +141,6 @@ researchentry
 researchguide
 researchoutreach
 researchpub
-researchsubmi
 resonline
 respaper
 resscience
@@ -164,8 +164,7 @@ smjournal
 speakerscongress
 streams
 study
-submission
-submit
+submi
 subartikle
 techdata
 thescientific
