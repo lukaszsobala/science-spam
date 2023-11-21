@@ -82,8 +82,6 @@ library.com
 longdom
 lupine
 manurev
-manuscript-submission.com
-manusubmit
 mathews
 medicalres
 medicalsci
@@ -167,7 +165,7 @@ speakerscongress
 streams
 study
 submission
-submitscience
+submit
 subartikle
 techdata
 thescientific
