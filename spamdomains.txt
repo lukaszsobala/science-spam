@@ -156,6 +156,7 @@ scientificsliterature
 scimedcentral
 scires
 scitech
+select
 signosis
 sll
 smgebooks
