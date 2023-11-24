@@ -10,11 +10,13 @@ articleslibrary
 article.email
 austinjournal
 austinpub
+authpub
 bioaccent
 biomedgrid
 biomedres
 biorbyt
 canutillo
+career
 casereport
 citemanu
 clinicalres
@@ -48,6 +50,7 @@ grmsd
 gtu.edu.tr
 gynobstet
 heighpub
+highered
 highscope
 hilaris
 hspub
