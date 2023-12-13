@@ -28,8 +28,7 @@ clinicsearch
 clinmed
 compubio
 conferencemeets
-conferencesevent
-conferencesmailer
+conferences
 conscieng
 covaris
 crgmeetings
@@ -145,6 +144,7 @@ smgebooks
 smjoa
 smjournal
 speakerscongress
+src
 streams
 study
 submi
