@@ -9,7 +9,7 @@ acquaint
 aminer
 amjece
 apac
-articleslibrary
+articleslib
 article.email
 austinjournal
 austinpub
@@ -38,14 +38,12 @@ dataplan
 easyaca
 eoics
 eresearch
-eurasiaconference
+eurasia
 exploration
 fjr
 fluotics
 fncon
-fortuneo
-fortuner
-fortunescires
+fortune
 forums.info
 globaleventshub
 gmexpo
@@ -69,8 +67,8 @@ impact
 imrpress
 indexmanu
 inospin
-intj3a
-intjtet
+intj3
+intjt
 intl-congress
 invites
 irisopen
@@ -132,8 +130,8 @@ sciani
 science-europe
 sciencesub
 scienceonline
-scientificliterature
-scientificsliterature
+scientificlit
+scientificslit
 scimedcentral
 scires
 scitech
