@@ -9,7 +9,7 @@ acquaint
 aminer
 amjece
 apac
-articleslib
+articles
 article.email
 austinjournal
 austinpub
@@ -21,6 +21,7 @@ biorbyt
 canutillo
 career
 casereport
+cellbiol
 citemanu
 clinicalres
 clinicals
@@ -130,9 +131,8 @@ sciani
 science-europe
 sciencesub
 scienceonline
-scientificlit
-scientificslit
-scimedcentral
+scientific
+scimedcent
 scires
 scitech
 select
@@ -140,7 +140,7 @@ signosis
 sll
 smgebooks
 smjoa
-smjournal
+smjour
 speakerscongress
 src
 stem
@@ -149,7 +149,6 @@ study
 submi
 subartikle
 techdata
-thescientific
 torrestech
 unitedevents
 upjac
