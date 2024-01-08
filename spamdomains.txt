@@ -18,7 +18,7 @@ bioaccent
 biomedgrid
 biomedres
 biorbyt
-biost
+biost.
 canutillo
 career
 casereport
