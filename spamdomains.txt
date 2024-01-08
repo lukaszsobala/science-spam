@@ -37,6 +37,8 @@ crgmeetings
 crimson
 ctns
 dataplan
+datadiscover
+discoverhub
 easyaca
 eoics
 eresearch
@@ -109,6 +111,7 @@ peerres
 phenosys
 plantsj
 polymer
+psrp
 ptechzoa
 ptz
 publish
