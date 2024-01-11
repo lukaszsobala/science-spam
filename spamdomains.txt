@@ -31,6 +31,7 @@ clinmed
 compubio
 conferencemeets
 conferences
+conf-
 congress
 conscieng
 covaris
@@ -92,6 +93,7 @@ jscimed
 juniper
 jwros
 library.com
+lmsii
 longdom
 lupine
 manurev
