@@ -51,6 +51,7 @@ fjr
 fluotics
 fncon
 fortune
+fortus
 forums.info
 globaleventshub
 gmexpo
@@ -138,6 +139,7 @@ reviewres
 sanyoubio
 scholarspodium
 sciani
+scilit
 science-europe
 sciencesub
 scienceonline
