@@ -14,6 +14,7 @@ article.email
 austinjournal
 austinpub
 authpub
+bentham
 bioaccent
 biomedgrid
 biomedres
@@ -143,6 +144,7 @@ scilit
 science-europe
 sciencesub
 scienceonline
+scienlit
 scientific
 scimedcent
 scires
