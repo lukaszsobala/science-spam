@@ -1,3 +1,4 @@
+.biz
 .live
 .online
 aaphysiol
