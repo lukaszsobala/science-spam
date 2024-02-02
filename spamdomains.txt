@@ -137,6 +137,7 @@ researchoutreach
 researchprint
 researchpub
 resonline
+resprint
 resscience
 restech
 reviewres
