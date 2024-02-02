@@ -20,6 +20,7 @@ bioaccent
 biomedgrid
 biomedres
 biorbyt
+biores
 biost.
 canutillo
 career
@@ -133,6 +134,7 @@ researchemail
 researchentry
 researchguide
 researchoutreach
+researchprint
 researchpub
 resonline
 resscience
@@ -146,6 +148,7 @@ science-europe
 sciencesub
 scienceonline
 scienlit
+scientia
 scientific
 scimedcent
 scires
