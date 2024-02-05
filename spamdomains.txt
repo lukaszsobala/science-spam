@@ -12,6 +12,7 @@ amjece
 apac
 articles
 article.email
+artikle
 austinjournal
 austinpub
 authpub
@@ -31,6 +32,7 @@ clinicalres
 clinicals
 clinicsearch
 clinmed
+comittee
 compubio
 conferencemeets
 conferences
@@ -48,7 +50,7 @@ easyaca
 eoics
 eresearch
 eurasia
-event20
+event2
 exploration
 fjr
 fluotics
@@ -102,13 +104,14 @@ longdom
 lupine
 manurev
 mathews
-mpbl
+medbd
 medicalres
 medicalsci
 medicinejournal.info
 medschol
 meghaz
 mopenj
+mpbl
 netwrk
 oaaustin
 oaj
@@ -144,13 +147,14 @@ reviewres
 sanyoubio
 scholarspodium
 sciani
-scilit
 science-europe
-sciencesub
+sciencenet
 scienceonline
+sciencesub
 scienlit
 scientia
 scientific
+scilit
 scimedcent
 scires
 scitech
@@ -167,7 +171,6 @@ stem
 streams
 study
 submi
-subartikle
 techdata
 torrestech
 unitedevents
