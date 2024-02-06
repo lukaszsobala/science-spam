@@ -145,6 +145,7 @@ resscience
 restech
 reviewres
 sanyoubio
+scholarly
 scholarspodium
 sciani
 science-europe
