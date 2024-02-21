@@ -44,6 +44,7 @@ covaris
 crgmeetings
 crimson
 ctns
+damray
 dataplan
 datadiscover
 discoverhub
@@ -114,6 +115,7 @@ medschol
 meghaz
 mopenj
 mpbl
+ngapor
 netwrk
 oaaustin
 oaj
