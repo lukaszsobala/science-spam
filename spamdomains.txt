@@ -46,7 +46,6 @@ crimson
 ctns
 damray
 dataplan
-datadiscover
 discov
 easyaca
 eoics
