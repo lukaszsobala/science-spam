@@ -47,9 +47,10 @@ ctns
 damray
 dataplan
 datadiscover
-discoverhub
+discov
 easyaca
 eoics
+epic
 eresearch
 eurasia
 event2
