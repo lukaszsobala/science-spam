@@ -109,7 +109,9 @@ lupine
 manurev
 mathews
 medbd
-medical
+medicalar
+medicalres
+medicalsci
 medicinejournal.info
 medschol
 meghaz
