@@ -109,8 +109,7 @@ lupine
 manurev
 mathews
 medbd
-medicalres
-medicalsci
+medical
 medicinejournal.info
 medschol
 meghaz
