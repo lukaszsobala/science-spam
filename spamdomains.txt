@@ -161,6 +161,7 @@ sciani
 science-europe
 sciencenet
 scienceonline
+sciencerep
 sciencesub
 scienlit
 scientia
