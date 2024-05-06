@@ -54,6 +54,8 @@ epic
 eresearch
 eurasia
 event2
+eventhub
+eventshub
 explor
 fjr
 fluotics
@@ -61,7 +63,7 @@ fncon
 fortune
 fortus
 forums.info
-globaleventshub
+global
 gmexpo
 grmsd
 gtu.edu.tr
