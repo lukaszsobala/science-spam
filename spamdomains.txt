@@ -54,7 +54,7 @@ epic
 eresearch
 eurasia
 event2
-exploration
+explor
 fjr
 fluotics
 fncon
