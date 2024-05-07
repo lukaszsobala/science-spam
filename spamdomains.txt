@@ -116,6 +116,7 @@ medicalar
 medicalres
 medicalsci
 medicinejournal.info
+medin
 medschol
 meghaz
 mopenj
