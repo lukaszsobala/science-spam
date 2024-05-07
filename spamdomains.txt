@@ -55,8 +55,6 @@ epic
 eresearch
 eurasia
 event2
-eventhub
-eventshub
 explor
 fjr
 fluotics
@@ -124,8 +122,10 @@ meghaz
 mopenj
 mpbl
 muht
-ngapor
 netwrk
+ngapor
+nhub
+nthub
 oaaustin
 oaj
 openaccess
@@ -177,7 +177,8 @@ scimedcent
 scires
 scitech
 select
-sendart
+send
+shub
 signosis
 skeena
 sll
