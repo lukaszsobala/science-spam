@@ -24,11 +24,11 @@ biomedgrid
 biomedres
 biorbyt
 biores
-biost.
+biost
 bonview
 canutillo
 career
-casereport
+caserep
 cellbiol
 citemanu
 clinicalres
