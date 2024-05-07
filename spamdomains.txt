@@ -1,4 +1,5 @@
 .biz
+.email
 .live
 .online
 aaphysiol
@@ -12,7 +13,6 @@ aminer
 amjece
 apac
 articles
-article.email
 artikle
 austinjournal
 austinpub
