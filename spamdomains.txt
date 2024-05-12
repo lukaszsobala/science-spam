@@ -129,6 +129,7 @@ nthub
 oaaustin
 oaj
 openaccess
+openpub
 paper
 peerres
 phenosys
@@ -186,6 +187,7 @@ smgebooks
 smjoa
 smjour
 speakerscongress
+sphere
 src
 stem
 streams
