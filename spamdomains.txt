@@ -62,7 +62,6 @@ fncon
 fortune
 fortus
 forums.info
-global
 gmexpo
 grmsd
 gtu.edu.tr
