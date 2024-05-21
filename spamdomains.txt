@@ -51,6 +51,7 @@ damray
 dataplan
 discov
 easyaca
+ehub
 eoics
 epic
 eresearch
@@ -106,6 +107,7 @@ jpsybehav
 jscimed
 juniper
 jwros
+knowledge
 library.com
 lmsii
 longdom
