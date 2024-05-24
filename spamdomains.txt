@@ -2,6 +2,7 @@
 .email
 .live
 .online
+.vip
 aaphysiol
 abc
 acad-pub
@@ -19,9 +20,9 @@ austinpub
 authpub
 bentham
 biocell
-bioaccent
-biomedgrid
-biomedres
+bioacc
+biomedg
+biomedr
 biorbyt
 biores
 biost
@@ -38,6 +39,7 @@ clinicsearch
 clinmed
 comittee
 compubio
+confco
 conferencemeets
 conferences
 conf-
@@ -52,6 +54,7 @@ dataplan
 discov
 easyaca
 ehub
+engll
 eoics
 epic
 eresearch
@@ -152,13 +155,13 @@ rdinospin
 resarticle
 rescol
 resdata
-researchcatalyst
+researchcat
 researchemail
-researchentry
-researchguide
-researchoutreach
-researchprint
-researchpub
+researchent
+researchgu
+researcho
+researchp
+researcht
 resonline
 resprint
 resscience
@@ -177,6 +180,7 @@ sciencesub
 scienlit
 scientia
 scientific
+scii
 scilit
 scimedcent
 scires
