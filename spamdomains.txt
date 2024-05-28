@@ -37,6 +37,7 @@ clinicalres
 clinicals
 clinicsearch
 clinmed
+cmepub
 comittee
 compubio
 confco
@@ -99,6 +100,7 @@ intl-congress
 invites
 irisopen
 iris-
+jber
 jfood
 jocc
 joeece
