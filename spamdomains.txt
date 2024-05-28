@@ -181,6 +181,7 @@ sciencenet
 scienceonline
 sciencerep
 sciencesub
+sciencesi
 scienlit
 scientia
 scientific
