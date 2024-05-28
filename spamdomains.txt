@@ -60,6 +60,7 @@ epic
 eresearch
 eurasia
 event2
+eventsu
 explor
 fjr
 fluotics
@@ -122,6 +123,7 @@ mathews
 medbd
 medicalar
 medicalres
+medicalj
 medicalsci
 medicinejournal.info
 medin
@@ -204,6 +206,7 @@ streams
 study
 stxuk
 submi
+supporting
 synerg
 techdata
 torrestech
