@@ -51,6 +51,7 @@ crgmeetings
 crimson
 ctns
 damray
+datapath
 dataplan
 discov
 easyaca
@@ -146,6 +147,7 @@ oaj
 openaccess
 openpub
 paper
+pathfind
 peerres
 phenosys
 plantsj
