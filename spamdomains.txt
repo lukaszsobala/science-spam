@@ -69,6 +69,7 @@ fncon
 fortune
 fortus
 forums.info
+globalm
 gmexpo
 grmsd
 gtu.edu.tr
@@ -93,6 +94,7 @@ impact
 imrpress
 indexmanu
 inospin
+intelh
 intellect
 intj3
 intjt
