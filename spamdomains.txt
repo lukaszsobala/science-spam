@@ -136,6 +136,7 @@ medin
 medschol
 meetings
 meghaz
+mks
 mopenj
 mpbl
 muht
