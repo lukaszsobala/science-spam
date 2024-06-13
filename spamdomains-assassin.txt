@@ -1,4 +1,4 @@
-blacklist_from *@*.biz*
+blacklist_from *@*.biz
 blacklist_from *@*.email
 blacklist_from *@*.live
 blacklist_from *@*.online
@@ -226,9 +226,10 @@ blacklist_from *@*torrestech*
 blacklist_from *@*unitedevents*
 blacklist_from *@*upjac*
 blacklist_from *@*valleolona*
+blacklist_from *@*vanguard*
 blacklist_from *@*virongy*
 blacklist_from *@*wcx*
 blacklist_from *@*whioce*
 blacklist_from *@*wjgnet*
 blacklist_from *@*wjoa*
-blacklist_from *@*wrc-china
+blacklist_from *@*wrc-china*
