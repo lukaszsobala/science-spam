@@ -1,6 +1,7 @@
 blacklist_from *@*.biz
 blacklist_from *@*.email
 blacklist_from *@*.live
+blacklist_from *@*.mom
 blacklist_from *@*.online
 blacklist_from *@*.vip
 blacklist_from *@*aaphysiol*
