@@ -1,6 +1,7 @@
 .biz
 .email
 .live
+.mom
 .online
 .vip
 aaphysiol
