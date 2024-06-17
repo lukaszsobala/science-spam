@@ -184,7 +184,7 @@ blacklist_from *@*restech*
 blacklist_from *@*reviewes*
 blacklist_from *@*reviewres*
 blacklist_from *@*sanyoubio*
-blacklist_from *@*scholarly*
+blacklist_from *@*scholarl*
 blacklist_from *@*scholars*
 blacklist_from *@*sciani*
 blacklist_from *@*science-europe*
