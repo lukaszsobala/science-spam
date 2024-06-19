@@ -72,11 +72,11 @@ blacklist_from *@*fluotics*
 blacklist_from *@*fncon*
 blacklist_from *@*fortune*
 blacklist_from *@*fortus*
-blacklist_from *@*forums.info*
+blacklist_from *@*forums.info
 blacklist_from *@*globalm*
 blacklist_from *@*gmexpo*
 blacklist_from *@*grmsd*
-blacklist_from *@*gtu.edu.tr*
+blacklist_from *@*gtu.edu.tr
 blacklist_from *@*gynobstet*
 blacklist_from *@*heighpub*
 blacklist_from *@*highered*
@@ -110,7 +110,8 @@ blacklist_from *@*jber*
 blacklist_from *@*jfood*
 blacklist_from *@*jocc*
 blacklist_from *@*joeece*
-blacklist_from *@*jomh.net*
+blacklist_from *@*jomh.net
+blacklist_from *@*jopz*
 blacklist_from *@*jou.com*
 blacklist_from *@*journalres*
 blacklist_from *@*journalsmailer*
@@ -133,7 +134,7 @@ blacklist_from *@*medicalar*
 blacklist_from *@*medicalres*
 blacklist_from *@*medicalj*
 blacklist_from *@*medicalsci*
-blacklist_from *@*medicinejournal.info*
+blacklist_from *@*medicinejournal.info
 blacklist_from *@*medin*
 blacklist_from *@*medschol*
 blacklist_from *@*meetings*
