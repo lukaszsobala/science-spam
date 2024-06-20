@@ -136,6 +136,7 @@ blacklist_from *@*medicalj*
 blacklist_from *@*medicalsci*
 blacklist_from *@*medicinejournal.info
 blacklist_from *@*medin*
+blacklist_from *@*medpub*
 blacklist_from *@*medschol*
 blacklist_from *@*meetings*
 blacklist_from *@*meghaz*
@@ -164,9 +165,10 @@ blacklist_from *@*ptz*
 blacklist_from *@*pubcomp*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
+blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
 blacklist_from *@*quality*
-blacklist_from *@*rdinnomatching*
+blacklist_from *@*rdinnom*
 blacklist_from *@*rdinospin*
 blacklist_from *@*resarticle*
 blacklist_from *@*rescol*
