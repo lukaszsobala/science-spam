@@ -136,6 +136,7 @@ medicalj
 medicalsci
 medicinejournal.info
 medin
+medpub
 medschol
 meetings
 meghaz
@@ -161,6 +162,7 @@ postel
 psrp
 ptechzoa
 ptz
+pubms
 pubcomp
 pubint
 publish
