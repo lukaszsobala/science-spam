@@ -197,8 +197,8 @@ sciencerep
 sciencesub
 sciencesi
 scienlit
-scientia
-scientific
+scienr
+scienti
 scii
 scilit
 scimedcent
