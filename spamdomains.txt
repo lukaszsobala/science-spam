@@ -23,6 +23,7 @@ authpub
 bentham
 biocell
 bioacc
+biolife
 biomedg
 biomedr
 biorbyt
@@ -124,6 +125,7 @@ juniper
 jwros
 knowledge
 library.com
+lifesas
 lmsii
 longdom
 lupine
