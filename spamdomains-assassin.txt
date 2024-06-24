@@ -23,6 +23,7 @@ blacklist_from *@*authpub*
 blacklist_from *@*bentham*
 blacklist_from *@*biocell*
 blacklist_from *@*bioacc*
+blacklist_from *@*biolife*
 blacklist_from *@*biomedg*
 blacklist_from *@*biomedr*
 blacklist_from *@*biorbyt*
@@ -123,7 +124,8 @@ blacklist_from *@*jsm*
 blacklist_from *@*juniper*
 blacklist_from *@*jwros*
 blacklist_from *@*knowledge*
-blacklist_from *@*library.com*
+blacklist_from *@*library.com
+blacklist_from *@*lifesas*
 blacklist_from *@*lmsii*
 blacklist_from *@*longdom*
 blacklist_from *@*lupine*
