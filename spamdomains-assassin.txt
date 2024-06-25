@@ -71,6 +71,7 @@ blacklist_from *@*finder*
 blacklist_from *@*fjr*
 blacklist_from *@*fluotics*
 blacklist_from *@*fncon*
+blacklist_from *@*focus*
 blacklist_from *@*fortune*
 blacklist_from *@*fortus*
 blacklist_from *@*forums.info
@@ -125,7 +126,7 @@ blacklist_from *@*juniper*
 blacklist_from *@*jwros*
 blacklist_from *@*knowledge*
 blacklist_from *@*library.com
-blacklist_from *@*lifesas*
+blacklist_from *@*lifesa*
 blacklist_from *@*lmsii*
 blacklist_from *@*longdom*
 blacklist_from *@*lupine*
@@ -202,6 +203,7 @@ blacklist_from *@*scienlit*
 blacklist_from *@*scienr*
 blacklist_from *@*scienti*
 blacklist_from *@*scii*
+blacklist_from *@*scij*
 blacklist_from *@*scilit*
 blacklist_from *@*scimedcent*
 blacklist_from *@*scires*
