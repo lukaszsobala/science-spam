@@ -71,6 +71,7 @@ finder
 fjr
 fluotics
 fncon
+focus
 fortune
 fortus
 forums.info
@@ -125,7 +126,7 @@ juniper
 jwros
 knowledge
 library.com
-lifesas
+lifesa
 lmsii
 longdom
 lupine
@@ -202,6 +203,7 @@ scienlit
 scienr
 scienti
 scii
+scij
 scilit
 scimedcent
 scires
