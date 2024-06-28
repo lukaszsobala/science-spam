@@ -208,6 +208,7 @@ scilit
 scimedcent
 scires
 scitech
+searcher
 select
 send
 shub
@@ -219,6 +220,7 @@ smjoa
 smjour
 speakerscongress
 sphere
+spsndr
 src
 stm
 stem
