@@ -208,6 +208,7 @@ blacklist_from *@*scilit*
 blacklist_from *@*scimedcent*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*
+blacklist_from *@*searcher*
 blacklist_from *@*select*
 blacklist_from *@*send*
 blacklist_from *@*shub*
@@ -219,6 +220,7 @@ blacklist_from *@*smjoa*
 blacklist_from *@*smjour*
 blacklist_from *@*speakerscongress*
 blacklist_from *@*sphere*
+blacklist_from *@*spsndr*
 blacklist_from *@*src*
 blacklist_from *@*stm*
 blacklist_from *@*stem*
