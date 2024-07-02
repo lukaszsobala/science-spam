@@ -76,6 +76,7 @@ fortune
 fortus
 forums.info
 globalm
+globalc
 gmexpo
 grmsd
 gtu.edu.tr
@@ -162,6 +163,7 @@ phenosys
 plantsj
 polymer
 postel
+precision
 psrp
 ptechzoa
 ptz
