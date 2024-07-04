@@ -148,6 +148,7 @@ blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
 blacklist_from *@*muht*
 blacklist_from *@*netwrk*
+blacklist_from *@*nexus*
 blacklist_from *@*ngapor*
 blacklist_from *@*nhub*
 blacklist_from *@*nthub*
@@ -194,6 +195,7 @@ blacklist_from *@*sanyoubio*
 blacklist_from *@*scholarl*
 blacklist_from *@*scholars*
 blacklist_from *@*sciani*
+blacklist_from *@*scicon*
 blacklist_from *@*science-europe*
 blacklist_from *@*sciencenet*
 blacklist_from *@*scienceonline*
