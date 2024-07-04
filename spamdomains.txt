@@ -36,8 +36,7 @@ caserep
 ccee
 cellbiol
 citemanu
-clinicalres
-clinicals
+clinical
 clinicsearch
 clinmed
 cmepub
@@ -208,6 +207,7 @@ scii
 scij
 scilit
 scimedcent
+scineu
 scires
 scitech
 searcher
