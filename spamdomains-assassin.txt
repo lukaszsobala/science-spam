@@ -36,8 +36,7 @@ blacklist_from *@*caserep*
 blacklist_from *@*ccee*
 blacklist_from *@*cellbiol*
 blacklist_from *@*citemanu*
-blacklist_from *@*clinicalres*
-blacklist_from *@*clinicals*
+blacklist_from *@*clinical*
 blacklist_from *@*clinicsearch*
 blacklist_from *@*clinmed*
 blacklist_from *@*cmepub*
@@ -208,6 +207,7 @@ blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
 blacklist_from *@*scimedcent*
+blacklist_from *@*scineu*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*
 blacklist_from *@*searcher*
