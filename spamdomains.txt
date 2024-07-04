@@ -148,6 +148,7 @@ mopenj
 mpbl
 muht
 netwrk
+nexus
 ngapor
 nhub
 nthub
@@ -194,6 +195,7 @@ sanyoubio
 scholarl
 scholars
 sciani
+scicon
 science-europe
 sciencenet
 scienceonline
