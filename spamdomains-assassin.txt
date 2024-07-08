@@ -109,6 +109,7 @@ blacklist_from *@*invites*
 blacklist_from *@*irisopen*
 blacklist_from *@*iris-*
 blacklist_from *@*jber*
+blacklist_from *@*jeee*
 blacklist_from *@*jfood*
 blacklist_from *@*jocc*
 blacklist_from *@*joeece*
