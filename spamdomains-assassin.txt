@@ -115,7 +115,7 @@ blacklist_from *@*jocc*
 blacklist_from *@*joeece*
 blacklist_from *@*jomh.net
 blacklist_from *@*jopz*
-blacklist_from *@*jou.com*
+blacklist_from *@*jou.com
 blacklist_from *@*journalres*
 blacklist_from *@*journalsmailer*
 blacklist_from *@*journalsr*
