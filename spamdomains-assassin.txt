@@ -165,6 +165,7 @@ blacklist_from *@*plantsj*
 blacklist_from *@*polymer*
 blacklist_from *@*postel*
 blacklist_from *@*precision*
+blacklist_from *@*present*
 blacklist_from *@*psrp*
 blacklist_from *@*ptechzoa*
 blacklist_from *@*ptz*
