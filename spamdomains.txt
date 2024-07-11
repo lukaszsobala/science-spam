@@ -133,7 +133,7 @@ lmsii
 longdom
 lupine
 manurev
-manusc
+manuscripto
 mathews
 medarch
 medbd
