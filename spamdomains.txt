@@ -52,6 +52,7 @@ covaris
 crgmeetings
 crimson
 ctns
+cyagen
 damray
 datapath
 dataplan
@@ -132,7 +133,9 @@ lmsii
 longdom
 lupine
 manurev
+manusc
 mathews
+medarch
 medbd
 medicalar
 medicalres
@@ -155,6 +158,7 @@ nhub
 nthub
 oaaustin
 oaj
+open.
 openaccess
 openpub
 paper
@@ -210,7 +214,7 @@ scienti
 scii
 scij
 scilit
-scimedcent
+scimed
 scineu
 scires
 scitech
