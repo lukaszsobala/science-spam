@@ -2,7 +2,6 @@
 .email
 .live
 .mom
-.online
 .vip
 aaphysiol
 abc
@@ -111,6 +110,7 @@ irisopen
 iris-
 jber
 jeee
+jepeng
 jfood
 jocc
 joeece
@@ -158,6 +158,7 @@ nhub
 nthub
 oaaustin
 oaj
+online
 open.
 openaccess
 openpub
@@ -191,7 +192,6 @@ researchgu
 researcho
 researchp
 researcht
-resonline
 resprint
 resscience
 restech
@@ -204,7 +204,6 @@ sciani
 scicon
 science-europe
 sciencenet
-scienceonline
 sciencerep
 sciencesub
 sciencesi
