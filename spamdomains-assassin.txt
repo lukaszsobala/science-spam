@@ -51,6 +51,7 @@ blacklist_from *@*covaris*
 blacklist_from *@*crgmeetings*
 blacklist_from *@*crimson*
 blacklist_from *@*ctns*
+blacklist_from *@*cyagen*
 blacklist_from *@*damray*
 blacklist_from *@*datapath*
 blacklist_from *@*dataplan*
@@ -132,6 +133,7 @@ blacklist_from *@*lmsii*
 blacklist_from *@*longdom*
 blacklist_from *@*lupine*
 blacklist_from *@*manurev*
+blacklist_from *@*manuscripto*
 blacklist_from *@*mathews*
 blacklist_from *@*medbd*
 blacklist_from *@*medicalar*
