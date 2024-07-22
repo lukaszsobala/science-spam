@@ -2,6 +2,7 @@
 .email
 .live
 .mom
+.online
 .vip
 aaphysiol
 abc
@@ -158,7 +159,9 @@ nhub
 nthub
 oaaustin
 oaj
-online
+onlinea
+onlinem
+onlinep
 open.
 openaccess
 openpub
@@ -192,6 +195,7 @@ researchgu
 researcho
 researchp
 researcht
+resonline
 resprint
 resscience
 restech
@@ -204,6 +208,7 @@ sciani
 scicon
 science-europe
 sciencenet
+scienceonline
 sciencerep
 sciencesub
 sciencesi

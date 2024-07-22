@@ -2,6 +2,7 @@ blacklist_from *@*.biz
 blacklist_from *@*.email
 blacklist_from *@*.live
 blacklist_from *@*.mom
+blacklist_from *@*.online
 blacklist_from *@*.vip
 blacklist_from *@*aaphysiol*
 blacklist_from *@*abc*
@@ -157,7 +158,9 @@ blacklist_from *@*nhub*
 blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
-blacklist_from *@*online*
+blacklist_from *@*onlinea*
+blacklist_from *@*onlinem*
+blacklist_from *@*onlinep*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
 blacklist_from *@*paper*
