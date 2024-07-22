@@ -2,7 +2,6 @@ blacklist_from *@*.biz
 blacklist_from *@*.email
 blacklist_from *@*.live
 blacklist_from *@*.mom
-blacklist_from *@*.online
 blacklist_from *@*.vip
 blacklist_from *@*aaphysiol*
 blacklist_from *@*abc*
@@ -110,6 +109,7 @@ blacklist_from *@*irisopen*
 blacklist_from *@*iris-*
 blacklist_from *@*jber*
 blacklist_from *@*jeee*
+blacklist_from *@*jepeng*
 blacklist_from *@*jfood*
 blacklist_from *@*jocc*
 blacklist_from *@*joeece*
@@ -155,6 +155,7 @@ blacklist_from *@*nhub*
 blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
+blacklist_from *@*online*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
 blacklist_from *@*paper*
