@@ -75,8 +75,8 @@ blacklist_from *@*focus*
 blacklist_from *@*fortune*
 blacklist_from *@*fortus*
 blacklist_from *@*forums.info
-blacklist_from *@*globalc*
 blacklist_from *@*globalm*
+blacklist_from *@*globalc*
 blacklist_from *@*gmexpo*
 blacklist_from *@*grmsd*
 blacklist_from *@*gtu.edu.tr
@@ -136,6 +136,7 @@ blacklist_from *@*lupine*
 blacklist_from *@*manurev*
 blacklist_from *@*manuscripto*
 blacklist_from *@*mathews*
+blacklist_from *@*medarch*
 blacklist_from *@*medbd*
 blacklist_from *@*medicalar*
 blacklist_from *@*medicalres*
@@ -161,6 +162,7 @@ blacklist_from *@*oaj*
 blacklist_from *@*onlinea*
 blacklist_from *@*onlinem*
 blacklist_from *@*onlinep*
+blacklist_from *@*open.*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
 blacklist_from *@*paper*
@@ -175,10 +177,10 @@ blacklist_from *@*present*
 blacklist_from *@*psrp*
 blacklist_from *@*ptechzoa*
 blacklist_from *@*ptz*
+blacklist_from *@*pubms*
 blacklist_from *@*pubcomp*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
-blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
 blacklist_from *@*quality*
 blacklist_from *@*rdinnom*
@@ -216,7 +218,7 @@ blacklist_from *@*scienti*
 blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
-blacklist_from *@*scimedcent*
+blacklist_from *@*scimed*
 blacklist_from *@*scineu*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*

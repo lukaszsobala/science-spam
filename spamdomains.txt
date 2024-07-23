@@ -183,7 +183,7 @@ pubint
 publish
 pubreq
 quality
-rdinnomatching
+rdinnom
 rdinospin
 resarticle
 rescol
