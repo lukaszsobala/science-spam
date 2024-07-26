@@ -214,7 +214,7 @@ blacklist_from *@*sciencesub*
 blacklist_from *@*sciencesi*
 blacklist_from *@*scienlit*
 blacklist_from *@*scienr*
-blacklist_from *@*scienti*
+blacklist_from *@*scientific-*
 blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
