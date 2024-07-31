@@ -47,6 +47,7 @@ conferencemeets
 conferences
 conf-
 congress
+connects
 conscieng
 covaris
 crgmeetings
@@ -59,6 +60,7 @@ dataplan
 discov
 easyaca
 ehub
+enago.biz
 engll
 eoics
 epic
@@ -106,6 +108,7 @@ intellect
 intj3
 intjt
 intl-congress
+inventions
 invites
 irisopen
 iris-
@@ -191,6 +194,7 @@ resdata
 researchcat
 researchemail
 researchent
+researchf
 researchgu
 researcho
 researchp

@@ -47,6 +47,7 @@ blacklist_from *@*conferencemeets*
 blacklist_from *@*conferences*
 blacklist_from *@*conf-*
 blacklist_from *@*congress*
+blacklist_from *@*connects*
 blacklist_from *@*conscieng*
 blacklist_from *@*covaris*
 blacklist_from *@*crgmeetings*
@@ -59,6 +60,7 @@ blacklist_from *@*dataplan*
 blacklist_from *@*discov*
 blacklist_from *@*easyaca*
 blacklist_from *@*ehub*
+blacklist_from *@*enago.biz
 blacklist_from *@*engll*
 blacklist_from *@*eoics*
 blacklist_from *@*epic*
@@ -106,6 +108,7 @@ blacklist_from *@*intellect*
 blacklist_from *@*intj3*
 blacklist_from *@*intjt*
 blacklist_from *@*intl-congress*
+blacklist_from *@*inventions*
 blacklist_from *@*invites*
 blacklist_from *@*irisopen*
 blacklist_from *@*iris-*
@@ -191,6 +194,7 @@ blacklist_from *@*resdata*
 blacklist_from *@*researchcat*
 blacklist_from *@*researchemail*
 blacklist_from *@*researchent*
+blacklist_from *@*researchf*
 blacklist_from *@*researchgu*
 blacklist_from *@*researcho*
 blacklist_from *@*researchp*
