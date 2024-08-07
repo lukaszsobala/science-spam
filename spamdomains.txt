@@ -28,7 +28,9 @@ biomedg
 biomedr
 biorbyt
 biores
-biost
+biost.
+biostc
+biostm
 bonview
 canutillo
 career
@@ -118,6 +120,7 @@ jepeng
 jfood
 jocc
 joeece
+jofm
 jomh.net
 jopz
 jou.com
@@ -136,6 +139,7 @@ lifesa
 lmsii
 longdom
 lupine
+mahc
 manurev
 manuscripto
 mathews
@@ -180,6 +184,7 @@ present
 psrp
 ptechzoa
 ptz
+pub-
 pubcomp
 pubint
 publish
