@@ -28,7 +28,9 @@ blacklist_from *@*biomedg*
 blacklist_from *@*biomedr*
 blacklist_from *@*biorbyt*
 blacklist_from *@*biores*
-blacklist_from *@*biost*
+blacklist_from *@*biost.*
+blacklist_from *@*biostc*
+blacklist_from *@*biostm*
 blacklist_from *@*bonview*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
@@ -118,6 +120,7 @@ blacklist_from *@*jepeng*
 blacklist_from *@*jfood*
 blacklist_from *@*jocc*
 blacklist_from *@*joeece*
+blacklist_from *@*jofm*
 blacklist_from *@*jomh.net
 blacklist_from *@*jopz*
 blacklist_from *@*jou.com
@@ -136,6 +139,7 @@ blacklist_from *@*lifesa*
 blacklist_from *@*lmsii*
 blacklist_from *@*longdom*
 blacklist_from *@*lupine*
+blacklist_from *@*mahc*
 blacklist_from *@*manurev*
 blacklist_from *@*manuscripto*
 blacklist_from *@*mathews*
@@ -180,6 +184,7 @@ blacklist_from *@*present*
 blacklist_from *@*psrp*
 blacklist_from *@*ptechzoa*
 blacklist_from *@*ptz*
+blacklist_from *@*pub-*
 blacklist_from *@*pubcomp*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
