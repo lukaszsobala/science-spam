@@ -162,6 +162,7 @@ mks
 mopenj
 mpbl
 muht
+nano-t
 netwrk
 nexus
 ngapor

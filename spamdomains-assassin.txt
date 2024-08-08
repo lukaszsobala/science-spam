@@ -162,6 +162,7 @@ blacklist_from *@*mks*
 blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
 blacklist_from *@*muht*
+blacklist_from *@*nano-t*
 blacklist_from *@*netwrk*
 blacklist_from *@*nexus*
 blacklist_from *@*ngapor*
