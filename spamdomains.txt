@@ -44,13 +44,15 @@ clinmed
 cmepub
 comittee
 compubio
+conf-
 confco
 conferencemeets
 conferences
-conf-
+conforum
 congress
 connects
 conscieng
+continuum
 covaris
 crgmeetings
 crimson
@@ -112,8 +114,8 @@ intjt
 intl-congress
 inventions
 invites
-irisopen
 iris-
+irisopen
 jber
 jeee
 jepeng
@@ -153,6 +155,7 @@ medicinejournal.info
 medin
 medpub
 medschol
+medsci
 meetings
 meghaz
 mks

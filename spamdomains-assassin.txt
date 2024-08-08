@@ -44,13 +44,15 @@ blacklist_from *@*clinmed*
 blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
 blacklist_from *@*compubio*
+blacklist_from *@*conf-*
 blacklist_from *@*confco*
 blacklist_from *@*conferencemeets*
 blacklist_from *@*conferences*
-blacklist_from *@*conf-*
+blacklist_from *@*conforum*
 blacklist_from *@*congress*
 blacklist_from *@*connects*
 blacklist_from *@*conscieng*
+blacklist_from *@*continuum*
 blacklist_from *@*covaris*
 blacklist_from *@*crgmeetings*
 blacklist_from *@*crimson*
@@ -112,8 +114,8 @@ blacklist_from *@*intjt*
 blacklist_from *@*intl-congress*
 blacklist_from *@*inventions*
 blacklist_from *@*invites*
-blacklist_from *@*irisopen*
 blacklist_from *@*iris-*
+blacklist_from *@*irisopen*
 blacklist_from *@*jber*
 blacklist_from *@*jeee*
 blacklist_from *@*jepeng*
@@ -153,6 +155,7 @@ blacklist_from *@*medicinejournal.info
 blacklist_from *@*medin*
 blacklist_from *@*medpub*
 blacklist_from *@*medschol*
+blacklist_from *@*medsci*
 blacklist_from *@*meetings*
 blacklist_from *@*meghaz*
 blacklist_from *@*mks*
