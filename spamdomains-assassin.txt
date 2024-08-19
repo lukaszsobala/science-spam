@@ -209,12 +209,14 @@ blacklist_from *@*researchema*
 blacklist_from *@*researchent*
 blacklist_from *@*researchf*
 blacklist_from *@*researchgu*
+blacklist_from *@*researchjo*
 blacklist_from *@*researcho*
 blacklist_from *@*researchp*
 blacklist_from *@*researcht*
 blacklist_from *@*resemail*
 blacklist_from *@*resent*
 blacklist_from *@*resgu*
+blacklist_from *@*resjo*
 blacklist_from *@*resonline*
 blacklist_from *@*resout*
 blacklist_from *@*resprint*
@@ -258,6 +260,7 @@ blacklist_from *@*speakerscongress*
 blacklist_from *@*sphere*
 blacklist_from *@*spsndr*
 blacklist_from *@*src*
+blacklist_from *@*stargr*
 blacklist_from *@*stm*
 blacklist_from *@*stem*
 blacklist_from *@*streams*

@@ -209,12 +209,14 @@ researchema
 researchent
 researchf
 researchgu
+researchjo
 researcho
 researchp
 researcht
 resemail
 resent
 resgu
+resjo
 resonline
 resout
 resprint
@@ -258,6 +260,7 @@ speakerscongress
 sphere
 spsndr
 src
+stargr
 stm
 stem
 streams
