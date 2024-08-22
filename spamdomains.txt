@@ -117,6 +117,7 @@ inventions
 invites
 iris-
 irisopen
+japer
 jber
 jeee
 jepeng
@@ -159,6 +160,7 @@ medschol
 medsci
 meetings
 meghaz
+meralpub
 mks
 mopenj
 mpbl
@@ -193,6 +195,7 @@ pub-
 pubcomp
 pubint
 publish
+pubmedj
 pubms
 pubreq
 quality

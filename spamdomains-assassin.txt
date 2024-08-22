@@ -117,6 +117,7 @@ blacklist_from *@*inventions*
 blacklist_from *@*invites*
 blacklist_from *@*iris-*
 blacklist_from *@*irisopen*
+blacklist_from *@*japer*
 blacklist_from *@*jber*
 blacklist_from *@*jeee*
 blacklist_from *@*jepeng*
@@ -159,6 +160,7 @@ blacklist_from *@*medschol*
 blacklist_from *@*medsci*
 blacklist_from *@*meetings*
 blacklist_from *@*meghaz*
+blacklist_from *@*meralpub*
 blacklist_from *@*mks*
 blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
@@ -193,6 +195,7 @@ blacklist_from *@*pub-*
 blacklist_from *@*pubcomp*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
+blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
 blacklist_from *@*quality*
