@@ -32,6 +32,7 @@ blacklist_from *@*biores*
 blacklist_from *@*biost.*
 blacklist_from *@*biostc*
 blacklist_from *@*biostm*
+blacklist_from *@*bmol*
 blacklist_from *@*bonview*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
@@ -45,6 +46,7 @@ blacklist_from *@*clinmed*
 blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
 blacklist_from *@*compubio*
+blacklist_from *@*conf.org
 blacklist_from *@*conf-*
 blacklist_from *@*confco*
 blacklist_from *@*conferencemeets*
@@ -62,6 +64,7 @@ blacklist_from *@*cyagen*
 blacklist_from *@*damray*
 blacklist_from *@*datapath*
 blacklist_from *@*dataplan*
+blacklist_from *@*directive*
 blacklist_from *@*discov*
 blacklist_from *@*easyaca*
 blacklist_from *@*ehub*
@@ -108,6 +111,7 @@ blacklist_from *@*impact*
 blacklist_from *@*imrpress*
 blacklist_from *@*indexmanu*
 blacklist_from *@*inospin*
+blacklist_from *@*insightful*
 blacklist_from *@*intelh*
 blacklist_from *@*intellect*
 blacklist_from *@*intj3*
@@ -183,6 +187,7 @@ blacklist_from *@*paper*
 blacklist_from *@*pathfind*
 blacklist_from *@*peerres*
 blacklist_from *@*phenosys*
+blacklist_from *@*phms*
 blacklist_from *@*plantsj*
 blacklist_from *@*polymer*
 blacklist_from *@*postel*
@@ -193,6 +198,7 @@ blacklist_from *@*ptechzoa*
 blacklist_from *@*ptz*
 blacklist_from *@*pub-*
 blacklist_from *@*pubcomp*
+blacklist_from *@*pubinsi*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
 blacklist_from *@*pubmedj*
@@ -269,17 +275,20 @@ blacklist_from *@*stem*
 blacklist_from *@*streams*
 blacklist_from *@*study*
 blacklist_from *@*stxuk*
+blacklist_from *@*synbio*
 blacklist_from *@*submi*
 blacklist_from *@*supporting*
 blacklist_from *@*synerg*
 blacklist_from *@*techdata*
 blacklist_from *@*techsci*
 blacklist_from *@*torrestech*
-blacklist_from *@*unitedevents*
+blacklist_from *@*unitedevent*
 blacklist_from *@*upjac*
+blacklist_from *@*valinet*
 blacklist_from *@*valleolona*
 blacklist_from *@*vanguard*
 blacklist_from *@*virongy*
+blacklist_from *@*wcid*
 blacklist_from *@*wcx*
 blacklist_from *@*whioce*
 blacklist_from *@*wjgnet*

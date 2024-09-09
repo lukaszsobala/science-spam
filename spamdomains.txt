@@ -32,6 +32,7 @@ biores
 biost.
 biostc
 biostm
+bmol
 bonview
 canutillo
 career
@@ -45,6 +46,7 @@ clinmed
 cmepub
 comittee
 compubio
+conf.org
 conf-
 confco
 conferencemeets
@@ -62,6 +64,7 @@ cyagen
 damray
 datapath
 dataplan
+directive
 discov
 easyaca
 ehub
@@ -108,6 +111,7 @@ impact
 imrpress
 indexmanu
 inospin
+insightful
 intelh
 intellect
 intj3
@@ -183,6 +187,7 @@ paper
 pathfind
 peerres
 phenosys
+phms
 plantsj
 polymer
 postel
@@ -193,6 +198,7 @@ ptechzoa
 ptz
 pub-
 pubcomp
+pubinsi
 pubint
 publish
 pubmedj
@@ -269,17 +275,20 @@ stem
 streams
 study
 stxuk
+synbio
 submi
 supporting
 synerg
 techdata
 techsci
 torrestech
-unitedevents
+unitedevent
 upjac
+valinet
 valleolona
 vanguard
 virongy
+wcid
 wcx
 whioce
 wjgnet
