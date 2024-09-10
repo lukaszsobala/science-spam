@@ -45,6 +45,7 @@ blacklist_from *@*clinicsearch*
 blacklist_from *@*clinmed*
 blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
+blacklist_from *@*committee*
 blacklist_from *@*compubio*
 blacklist_from *@*conf.org
 blacklist_from *@*conf-*
@@ -183,6 +184,7 @@ blacklist_from *@*onlinep*
 blacklist_from *@*open.*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
+blacklist_from *@*organiz*
 blacklist_from *@*paper*
 blacklist_from *@*pathfind*
 blacklist_from *@*peerres*

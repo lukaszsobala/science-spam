@@ -45,6 +45,7 @@ clinicsearch
 clinmed
 cmepub
 comittee
+committee
 compubio
 conf.org
 conf-
@@ -183,6 +184,7 @@ onlinep
 open.
 openaccess
 openpub
+organiz
 paper
 pathfind
 peerres
