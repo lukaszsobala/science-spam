@@ -47,7 +47,6 @@ cmepub
 comittee
 committee
 compubio
-conf.org
 conf-
 confco
 conferencemeets
@@ -154,6 +153,7 @@ manuscripto
 mathews
 medarch
 medbd
+medgrid
 medicalar
 medicalres
 medicalj

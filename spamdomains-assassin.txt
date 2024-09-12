@@ -47,7 +47,6 @@ blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
 blacklist_from *@*committee*
 blacklist_from *@*compubio*
-blacklist_from *@*conf.org
 blacklist_from *@*conf-*
 blacklist_from *@*confco*
 blacklist_from *@*conferencemeets*
@@ -154,6 +153,7 @@ blacklist_from *@*manuscripto*
 blacklist_from *@*mathews*
 blacklist_from *@*medarch*
 blacklist_from *@*medbd*
+blacklist_from *@*medgrid*
 blacklist_from *@*medicalar*
 blacklist_from *@*medicalres*
 blacklist_from *@*medicalj*
