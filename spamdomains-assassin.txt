@@ -12,6 +12,7 @@ blacklist_from *@*acadpub*
 blacklist_from *@*accsci*
 blacklist_from *@*acquaint*
 blacklist_from *@*ajae*
+blacklist_from *@*alsobro*
 blacklist_from *@*aminer*
 blacklist_from *@*amjece*
 blacklist_from *@*analytix*
@@ -100,6 +101,8 @@ blacklist_from *@*hspc*
 blacklist_from *@*hspi*
 blacklist_from *@*hubs*
 blacklist_from *@*iairias*
+blacklist_from *@*ichealthm*
+blacklist_from *@*iconfeecs*
 blacklist_from *@*iddst*
 blacklist_from *@*ijoast*
 blacklist_from *@*ijochmed*
@@ -283,6 +286,7 @@ blacklist_from *@*supporting*
 blacklist_from *@*synerg*
 blacklist_from *@*techdata*
 blacklist_from *@*techsci*
+blacklist_from *@*tlooto*
 blacklist_from *@*torrestech*
 blacklist_from *@*unitedevent*
 blacklist_from *@*upjac*
@@ -292,6 +296,7 @@ blacklist_from *@*vanguard*
 blacklist_from *@*virongy*
 blacklist_from *@*wcid*
 blacklist_from *@*wcx*
+blacklist_from *@*wdd-20*
 blacklist_from *@*whioce*
 blacklist_from *@*wjgnet*
 blacklist_from *@*wjoa*
