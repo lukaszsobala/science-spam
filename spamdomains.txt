@@ -184,6 +184,7 @@ oaj
 onlinea
 onlinem
 onlinep
+opaccess
 open.
 openaccess
 openpub
@@ -194,6 +195,7 @@ peerres
 phenosys
 phms
 plantsj
+polscientific
 polymer
 postel
 precision

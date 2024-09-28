@@ -184,6 +184,7 @@ blacklist_from *@*oaj*
 blacklist_from *@*onlinea*
 blacklist_from *@*onlinem*
 blacklist_from *@*onlinep*
+blacklist_from *@*opaccess*
 blacklist_from *@*open.*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
@@ -194,6 +195,7 @@ blacklist_from *@*peerres*
 blacklist_from *@*phenosys*
 blacklist_from *@*phms*
 blacklist_from *@*plantsj*
+blacklist_from *@*polscientific*
 blacklist_from *@*polymer*
 blacklist_from *@*postel*
 blacklist_from *@*precision*
