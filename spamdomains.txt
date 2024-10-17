@@ -3,6 +3,7 @@
 .live
 .mom
 .online
+.pro
 .vip
 -conf
 -pub
@@ -12,6 +13,7 @@ acadpub
 accsci
 acquaint
 ajae
+ajonc
 alsobro
 aminer
 amjece
@@ -184,6 +186,7 @@ oaj
 onlinea
 onlinem
 onlinep
+onlinesci
 opaccess
 open.
 openaccess
