@@ -39,6 +39,7 @@ bmol
 bonview
 canutillo
 career
+casepub
 caserep
 ccee
 cellbiol
@@ -71,7 +72,7 @@ directive
 discov
 easyaca
 ehub
-enago.biz
+engiconf
 engll
 eoics
 epic
@@ -247,6 +248,7 @@ sanyoubio
 scholarl
 scholars
 sciani
+scicase
 scicon
 science-europe
 sciencenet

@@ -39,6 +39,7 @@ blacklist_from *@*bmol*
 blacklist_from *@*bonview*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
+blacklist_from *@*casepub*
 blacklist_from *@*caserep*
 blacklist_from *@*ccee*
 blacklist_from *@*cellbiol*
@@ -71,7 +72,7 @@ blacklist_from *@*directive*
 blacklist_from *@*discov*
 blacklist_from *@*easyaca*
 blacklist_from *@*ehub*
-blacklist_from *@*enago.biz
+blacklist_from *@*engiconf*
 blacklist_from *@*engll*
 blacklist_from *@*eoics*
 blacklist_from *@*epic*
@@ -247,6 +248,7 @@ blacklist_from *@*sanyoubio*
 blacklist_from *@*scholarl*
 blacklist_from *@*scholars*
 blacklist_from *@*sciani*
+blacklist_from *@*scicase*
 blacklist_from *@*scicon*
 blacklist_from *@*science-europe*
 blacklist_from *@*sciencenet*
