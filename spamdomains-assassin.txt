@@ -39,8 +39,11 @@ blacklist_from *@*bmol*
 blacklist_from *@*bonview*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
+blacklist_from *@*caseart*
+blacklist_from *@*casejou*
 blacklist_from *@*casepub*
 blacklist_from *@*caserep*
+blacklist_from *@*casesci*
 blacklist_from *@*ccee*
 blacklist_from *@*cellbiol*
 blacklist_from *@*citemanu*

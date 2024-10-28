@@ -39,8 +39,11 @@ bmol
 bonview
 canutillo
 career
+caseart
+casejou
 casepub
 caserep
+casesci
 ccee
 cellbiol
 citemanu
