@@ -63,6 +63,7 @@ congress
 connects
 conscieng
 continuum
+contrib
 covaris
 crgmeetings
 crimson
@@ -74,6 +75,7 @@ dataplan
 directive
 discov
 easyaca
+eclini
 ehub
 engiconf
 engll
@@ -254,6 +256,7 @@ sciani
 scicase
 scicon
 science-europe
+sciencecon
 sciencenet
 scienceonline
 scienceper
@@ -280,7 +283,9 @@ sll
 smgebooks
 smjoa
 smjour
-speakerscongress
+speakcon
+speakercon
+speakerscon
 sphere
 spsndr
 src
