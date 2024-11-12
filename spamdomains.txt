@@ -148,6 +148,7 @@ journalsmailer
 journalsr
 jowmns
 jpsybehav
+jrnl
 jscimed
 jsm
 juniper
@@ -197,6 +198,7 @@ opaccess
 open.
 openaccess
 openpub
+openres
 organiz
 paper
 pathfind
@@ -266,6 +268,8 @@ sciencesi
 scienlit
 scienr
 scientific-
+scientificpub
+scientifictext
 scii
 scij
 scilit

@@ -148,6 +148,7 @@ blacklist_from *@*journalsmailer*
 blacklist_from *@*journalsr*
 blacklist_from *@*jowmns*
 blacklist_from *@*jpsybehav*
+blacklist_from *@*jrnl*
 blacklist_from *@*jscimed*
 blacklist_from *@*jsm*
 blacklist_from *@*juniper*
@@ -197,6 +198,7 @@ blacklist_from *@*opaccess*
 blacklist_from *@*open.*
 blacklist_from *@*openaccess*
 blacklist_from *@*openpub*
+blacklist_from *@*openres*
 blacklist_from *@*organiz*
 blacklist_from *@*paper*
 blacklist_from *@*pathfind*
@@ -266,6 +268,8 @@ blacklist_from *@*sciencesi*
 blacklist_from *@*scienlit*
 blacklist_from *@*scienr*
 blacklist_from *@*scientific-*
+blacklist_from *@*scientificpub*
+blacklist_from *@*scientifictext*
 blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
