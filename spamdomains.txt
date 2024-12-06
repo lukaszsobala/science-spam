@@ -48,6 +48,7 @@ caserep
 casesci
 ccee
 cellbiol
+cfp
 citemanu
 clinical
 clinicsearch

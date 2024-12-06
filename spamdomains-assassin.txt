@@ -48,6 +48,7 @@ blacklist_from *@*caserep*
 blacklist_from *@*casesci*
 blacklist_from *@*ccee*
 blacklist_from *@*cellbiol*
+blacklist_from *@*cfp*
 blacklist_from *@*citemanu*
 blacklist_from *@*clinical*
 blacklist_from *@*clinicsearch*
