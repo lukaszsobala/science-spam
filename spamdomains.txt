@@ -310,6 +310,7 @@ scij
 scilit
 scimed
 scineu
+scioa
 scires
 scitech
 searcher
