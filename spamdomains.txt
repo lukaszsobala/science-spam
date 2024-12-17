@@ -52,7 +52,8 @@ cfp
 citemanu
 clinical
 clinicsearch
-clinmed
+clinm
+clinsc
 cmepub
 comittee
 committee
@@ -298,6 +299,7 @@ sciencerep
 sciencesub
 sciencesi
 scienlit
+scienly
 scienr
 scientific-
 scientificpub

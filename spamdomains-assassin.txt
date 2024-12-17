@@ -52,7 +52,8 @@ blacklist_from *@*cfp*
 blacklist_from *@*citemanu*
 blacklist_from *@*clinical*
 blacklist_from *@*clinicsearch*
-blacklist_from *@*clinmed*
+blacklist_from *@*clinm*
+blacklist_from *@*clinsc*
 blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
 blacklist_from *@*committee*
@@ -298,6 +299,7 @@ blacklist_from *@*sciencerep*
 blacklist_from *@*sciencesub*
 blacklist_from *@*sciencesi*
 blacklist_from *@*scienlit*
+blacklist_from *@*scienly*
 blacklist_from *@*scienr*
 blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*
