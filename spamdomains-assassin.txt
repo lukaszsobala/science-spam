@@ -26,6 +26,7 @@ blacklist_from *@*austinjournal*
 blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
 blacklist_from *@*bentham*
+blacklist_from *@*bilpub*
 blacklist_from *@*biocell*
 blacklist_from *@*bioacc*
 blacklist_from *@*biolife*
@@ -189,6 +190,7 @@ blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
 blacklist_from *@*muht*
 blacklist_from *@*nano-t*
+blacklist_from *@*nassg*
 blacklist_from *@*netwrk*
 blacklist_from *@*nexus*
 blacklist_from *@*ngapor*
@@ -228,6 +230,8 @@ blacklist_from *@*publish*
 blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
+blacklist_from *@*qftech*
+blacklist_from *@*qingfei*
 blacklist_from *@*quality*
 blacklist_from *@*rdinnom*
 blacklist_from *@*rdinospin*

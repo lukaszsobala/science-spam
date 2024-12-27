@@ -26,6 +26,7 @@ austinjournal
 austinpub
 authpub
 bentham
+bilpub
 biocell
 bioacc
 biolife
@@ -189,6 +190,7 @@ mopenj
 mpbl
 muht
 nano-t
+nassg
 netwrk
 nexus
 ngapor
@@ -228,6 +230,8 @@ publish
 pubmedj
 pubms
 pubreq
+qftech
+qingfei
 quality
 rdinnom
 rdinospin
