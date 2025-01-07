@@ -13,6 +13,7 @@ blacklist_from *@*acadpub*
 blacklist_from *@*accsci*
 blacklist_from *@*acquaint*
 blacklist_from *@*ajae*
+blacklist_from *@*aliforn.*
 blacklist_from *@*ajonc*
 blacklist_from *@*alsobro*
 blacklist_from *@*aminer*
@@ -92,11 +93,13 @@ blacklist_from *@*eurasia*
 blacklist_from *@*event2*
 blacklist_from *@*eventsu*
 blacklist_from *@*explor*
+blacklist_from *@*fdnj*
 blacklist_from *@*finder*
 blacklist_from *@*fjr*
 blacklist_from *@*fluotics*
 blacklist_from *@*fncon*
 blacklist_from *@*focus*
+blacklist_from *@*fortulit*
 blacklist_from *@*fortune*
 blacklist_from *@*fortus*
 blacklist_from *@*forums.info

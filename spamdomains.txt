@@ -13,6 +13,7 @@ acadpub
 accsci
 acquaint
 ajae
+aliforn.
 ajonc
 alsobro
 aminer
@@ -92,11 +93,13 @@ eurasia
 event2
 eventsu
 explor
+fdnj
 finder
 fjr
 fluotics
 fncon
 focus
+fortulit
 fortune
 fortus
 forums.info
