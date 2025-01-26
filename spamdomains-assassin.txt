@@ -12,6 +12,8 @@ blacklist_from *@*abc*
 blacklist_from *@*acadpub*
 blacklist_from *@*accsci*
 blacklist_from *@*acquaint*
+blacklist_from *@*adv-sci*
+blacklist_from *@*advsci*
 blacklist_from *@*ajae*
 blacklist_from *@*aliforn.*
 blacklist_from *@*ajonc*
@@ -80,6 +82,7 @@ blacklist_from *@*damray*
 blacklist_from *@*datapath*
 blacklist_from *@*dataplan*
 blacklist_from *@*directive*
+blacklist_from *@*distares*
 blacklist_from *@*discov*
 blacklist_from *@*easyaca*
 blacklist_from *@*eclini*
@@ -130,6 +133,7 @@ blacklist_from *@*ijompem*
 blacklist_from *@*imagesreport*
 blacklist_from *@*impact*
 blacklist_from *@*imrpress*
+blacklist_from *@*indexed*
 blacklist_from *@*indexmanu*
 blacklist_from *@*inospin*
 blacklist_from *@*insightful*
@@ -201,6 +205,7 @@ blacklist_from *@*nhub*
 blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
+blacklist_from *@*omethu*
 blacklist_from *@*onlinea*
 blacklist_from *@*onlinem*
 blacklist_from *@*onlinep*
@@ -312,6 +317,7 @@ blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*
 blacklist_from *@*scientificres*
 blacklist_from *@*scientifictext*
+blacklist_from *@*scigroup*
 blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
@@ -344,6 +350,7 @@ blacklist_from *@*study*
 blacklist_from *@*stxuk*
 blacklist_from *@*synbio*
 blacklist_from *@*submi*
+blacklist_from *@*subportal*
 blacklist_from *@*supporting*
 blacklist_from *@*synerg*
 blacklist_from *@*techdata*

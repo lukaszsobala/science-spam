@@ -12,6 +12,8 @@ abc
 acadpub
 accsci
 acquaint
+adv-sci
+advsci
 ajae
 aliforn.
 ajonc
@@ -80,6 +82,7 @@ damray
 datapath
 dataplan
 directive
+distares
 discov
 easyaca
 eclini
@@ -130,6 +133,7 @@ ijompem
 imagesreport
 impact
 imrpress
+indexed
 indexmanu
 inospin
 insightful
@@ -201,6 +205,7 @@ nhub
 nthub
 oaaustin
 oaj
+omethu
 onlinea
 onlinem
 onlinep
@@ -312,6 +317,7 @@ scientific-
 scientificpub
 scientificres
 scientifictext
+scigroup
 scii
 scij
 scilit
@@ -344,6 +350,7 @@ study
 stxuk
 synbio
 submi
+subportal
 supporting
 synerg
 techdata
