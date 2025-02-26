@@ -23,6 +23,7 @@ blacklist_from *@*amjece*
 blacklist_from *@*analycu*
 blacklist_from *@*analytix*
 blacklist_from *@*apac*
+blacklist_from *@*apmascongress*
 blacklist_from *@*articles*
 blacklist_from *@*artikle*
 blacklist_from *@*austinjournal*
@@ -97,6 +98,7 @@ blacklist_from *@*event2*
 blacklist_from *@*eventsu*
 blacklist_from *@*explor*
 blacklist_from *@*fdnj*
+blacklist_from *@*feixiaodata*
 blacklist_from *@*finder*
 blacklist_from *@*fjr*
 blacklist_from *@*fluotics*
@@ -213,6 +215,7 @@ blacklist_from *@*onlinesci*
 blacklist_from *@*opaccess*
 blacklist_from *@*open.*
 blacklist_from *@*openaccess*
+blacklist_from *@*opensciencejournal*
 blacklist_from *@*openpub*
 blacklist_from *@*openres*
 blacklist_from *@*organiz*
@@ -235,6 +238,7 @@ blacklist_from *@*pubcomp*
 blacklist_from *@*pubinsi*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
+blacklist_from *@*pubmanu*
 blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
@@ -304,6 +308,7 @@ blacklist_from *@*scicase*
 blacklist_from *@*scicon*
 blacklist_from *@*science-europe*
 blacklist_from *@*sciencecon*
+blacklist_from *@*sciencedoc*
 blacklist_from *@*sciencenet*
 blacklist_from *@*scienceonline*
 blacklist_from *@*scienceper*
@@ -312,6 +317,7 @@ blacklist_from *@*sciencesub*
 blacklist_from *@*sciencesi*
 blacklist_from *@*scienlit*
 blacklist_from *@*scienly*
+blacklist_from *@*scienl.*
 blacklist_from *@*scienr*
 blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*

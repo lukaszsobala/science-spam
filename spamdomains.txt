@@ -23,6 +23,7 @@ amjece
 analycu
 analytix
 apac
+apmascongress
 articles
 artikle
 austinjournal
@@ -97,6 +98,7 @@ event2
 eventsu
 explor
 fdnj
+feixiaodata
 finder
 fjr
 fluotics
@@ -213,6 +215,7 @@ onlinesci
 opaccess
 open.
 openaccess
+opensciencejournal
 openpub
 openres
 organiz
@@ -235,6 +238,7 @@ pubcomp
 pubinsi
 pubint
 publish
+pubmanu
 pubmedj
 pubms
 pubreq
@@ -304,6 +308,7 @@ scicase
 scicon
 science-europe
 sciencecon
+sciencedoc
 sciencenet
 scienceonline
 scienceper
@@ -312,6 +317,7 @@ sciencesub
 sciencesi
 scienlit
 scienly
+scienl.
 scienr
 scientific-
 scientificpub
