@@ -332,6 +332,7 @@ scij
 scilit
 scimed
 scineu
+scinee
 scioa
 scires
 scitech

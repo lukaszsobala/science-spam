@@ -332,6 +332,7 @@ blacklist_from *@*scij*
 blacklist_from *@*scilit*
 blacklist_from *@*scimed*
 blacklist_from *@*scineu*
+blacklist_from *@*scinee*
 blacklist_from *@*scioa*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*
