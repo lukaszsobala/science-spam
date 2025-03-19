@@ -19,6 +19,7 @@ blacklist_from *@*aliforn.*
 blacklist_from *@*ajonc*
 blacklist_from *@*alsobro*
 blacklist_from *@*althoug.com
+blacklist_from *@*amerigo.*
 blacklist_from *@*aminer*
 blacklist_from *@*amjece*
 blacklist_from *@*analycu*
@@ -27,6 +28,7 @@ blacklist_from *@*apac*
 blacklist_from *@*apmascongress*
 blacklist_from *@*articles*
 blacklist_from *@*artikle*
+blacklist_from *@*auctore*
 blacklist_from *@*austinjournal*
 blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
