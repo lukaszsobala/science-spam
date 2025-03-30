@@ -356,6 +356,7 @@ blacklist_from *@*sphere*
 blacklist_from *@*spsndr*
 blacklist_from *@*src*
 blacklist_from *@*stargr*
+blacklist_from *@*startech*
 blacklist_from *@*stm*
 blacklist_from *@*stem*
 blacklist_from *@*streams*
@@ -367,6 +368,7 @@ blacklist_from *@*subportal*
 blacklist_from *@*supporting*
 blacklist_from *@*synerg*
 blacklist_from *@*techdata*
+blacklist_from *@*techone*
 blacklist_from *@*techsci*
 blacklist_from *@*tlooto*
 blacklist_from *@*torrestech*
@@ -383,3 +385,4 @@ blacklist_from *@*whioce*
 blacklist_from *@*wjgnet*
 blacklist_from *@*wjoa*
 blacklist_from *@*wrc-china*
+blacklist_from *@*wwys*
