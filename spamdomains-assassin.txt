@@ -370,6 +370,7 @@ blacklist_from *@*synerg*
 blacklist_from *@*techdata*
 blacklist_from *@*techone*
 blacklist_from *@*techsci*
+blacklist_from *@*timbc*
 blacklist_from *@*tlooto*
 blacklist_from *@*torrestech*
 blacklist_from *@*unitedevent*
