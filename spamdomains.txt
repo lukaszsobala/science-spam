@@ -112,6 +112,7 @@ fortune
 fortuns
 fortus
 forums.info
+foryou
 globalc
 globalm
 gmexpo

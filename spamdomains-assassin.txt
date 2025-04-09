@@ -112,6 +112,7 @@ blacklist_from *@*fortune*
 blacklist_from *@*fortuns*
 blacklist_from *@*fortus*
 blacklist_from *@*forums.info
+blacklist_from *@*foryou*
 blacklist_from *@*globalc*
 blacklist_from *@*globalm*
 blacklist_from *@*gmexpo*
