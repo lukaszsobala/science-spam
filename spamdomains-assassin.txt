@@ -74,6 +74,7 @@ blacklist_from *@*conforum*
 blacklist_from *@*congress*
 blacklist_from *@*connects*
 blacklist_from *@*conscieng*
+blacklist_from *@*contact-logs*
 blacklist_from *@*continuum*
 blacklist_from *@*contrib*
 blacklist_from *@*covaris*
@@ -312,6 +313,7 @@ blacklist_from *@*scholars*
 blacklist_from *@*sciani*
 blacklist_from *@*scicase*
 blacklist_from *@*scicon*
+blacklist_from *@*science-edu.eu
 blacklist_from *@*science-europe*
 blacklist_from *@*sciencecon*
 blacklist_from *@*sciencedoc*

@@ -74,6 +74,7 @@ conforum
 congress
 connects
 conscieng
+contact-logs
 continuum
 contrib
 covaris
@@ -312,6 +313,7 @@ scholars
 sciani
 scicase
 scicon
+science-edu.eu
 science-europe
 sciencecon
 sciencedoc
