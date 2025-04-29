@@ -66,7 +66,6 @@ blacklist_from *@*cmepub*
 blacklist_from *@*comittee*
 blacklist_from *@*committee*
 blacklist_from *@*compubio*
-blacklist_from *@*conf.*
 blacklist_from *@*conf-*
 blacklist_from *@*confco*
 blacklist_from *@*conferencemeets*
