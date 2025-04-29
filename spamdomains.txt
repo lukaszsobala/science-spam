@@ -66,6 +66,7 @@ cmepub
 comittee
 committee
 compubio
+conf.
 conf-
 confco
 conferencemeets
@@ -87,6 +88,7 @@ damray
 datapath
 dataplan
 directive
+directve
 distares
 discov
 easyaca
@@ -236,6 +238,7 @@ polymer
 postel
 precision
 present
+przmeet
 psrp
 ptechzoa
 ptz
@@ -388,5 +391,6 @@ wdd-20
 whioce
 wjgnet
 wjoa
+worldgene
 wrc-china
 wwys
