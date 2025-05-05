@@ -12,7 +12,7 @@ INPUT_FILE="spamdomains.txt"
 OUTPUT_FILE="spamdomains-assassin.cf"
 
 # First, sort the input file alphabetically and remove empty lines in-place
-export LC_ALL=C
+export LC_ALL=C # Set locale to C for consistent soritng of special characters
 sort -o "${INPUT_FILE}" "${INPUT_FILE}" 
 sed -i '/^[[:space:]]*$/d' "${INPUT_FILE}"
 
