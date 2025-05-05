@@ -5,11 +5,16 @@
 # 
 # This script converts a plain list of spam domains in spamdomains.txt
 # into a SpamAssassin-compatible blacklist format.
-# Output is saved to spamdomains-assassin.txt
+# Output is saved to spamdomains-assassin.cf
 # ---------------------------------------------------------------
 
 INPUT_FILE="spamdomains.txt"
 OUTPUT_FILE="spamdomains-assassin.cf"
+
+# First, sort the input file alphabetically and remove empty lines in-place
+export LC_ALL=C
+sort -o "${INPUT_FILE}" "${INPUT_FILE}" 
+sed -i '/^[[:space:]]*$/d' "${INPUT_FILE}"
 
 # Process the domains with the following transformations:
 #  1. Add "blacklist_from *@*" prefix to each domain
