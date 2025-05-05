@@ -1,3 +1,5 @@
+blacklist_from *@*-conf*
+blacklist_from *@*-pub*
 blacklist_from *@*.biz
 blacklist_from *@*.email
 blacklist_from *@*.live
@@ -5,8 +7,6 @@ blacklist_from *@*.mom
 blacklist_from *@*.online
 blacklist_from *@*.pro
 blacklist_from *@*.vip
-blacklist_from *@*-conf*
-blacklist_from *@*-pub*
 blacklist_from *@*aaphysiol*
 blacklist_from *@*abc*
 blacklist_from *@*acadpub*
@@ -15,8 +15,8 @@ blacklist_from *@*acquaint*
 blacklist_from *@*adv-sci*
 blacklist_from *@*advsci*
 blacklist_from *@*ajae*
-blacklist_from *@*aliforn.*
 blacklist_from *@*ajonc*
+blacklist_from *@*aliforn.*
 blacklist_from *@*alsobro*
 blacklist_from *@*althoug.com
 blacklist_from *@*amerigo.*
@@ -34,8 +34,8 @@ blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
 blacklist_from *@*bentham*
 blacklist_from *@*bilpub*
-blacklist_from *@*biocell*
 blacklist_from *@*bioacc*
+blacklist_from *@*biocell*
 blacklist_from *@*biolife*
 blacklist_from *@*biomedg*
 blacklist_from *@*biomedr*
@@ -88,8 +88,8 @@ blacklist_from *@*datapath*
 blacklist_from *@*dataplan*
 blacklist_from *@*directive*
 blacklist_from *@*directve*
-blacklist_from *@*distares*
 blacklist_from *@*discov*
+blacklist_from *@*distares*
 blacklist_from *@*easyaca*
 blacklist_from *@*eclini*
 blacklist_from *@*ehub*
@@ -105,6 +105,7 @@ blacklist_from *@*explor*
 blacklist_from *@*fdnj*
 blacklist_from *@*feixiaodata*
 blacklist_from *@*finder*
+blacklist_from *@*fjopas*
 blacklist_from *@*fjr*
 blacklist_from *@*fluotics*
 blacklist_from *@*fncon*
@@ -126,9 +127,9 @@ blacklist_from *@*highered*
 blacklist_from *@*highscope*
 blacklist_from *@*hilaris*
 blacklist_from *@*hillpubli*
-blacklist_from *@*hspub*
 blacklist_from *@*hspc*
 blacklist_from *@*hspi*
+blacklist_from *@*hspub*
 blacklist_from *@*hubs*
 blacklist_from *@*iairias*
 blacklist_from *@*ichealthm*
@@ -190,8 +191,8 @@ blacklist_from *@*medarch*
 blacklist_from *@*medbd*
 blacklist_from *@*medgrid*
 blacklist_from *@*medicalar*
-blacklist_from *@*medicalres*
 blacklist_from *@*medicalj*
+blacklist_from *@*medicalres*
 blacklist_from *@*medicalsci*
 blacklist_from *@*medicinejournal.info
 blacklist_from *@*medin*
@@ -222,9 +223,9 @@ blacklist_from *@*onlinesci*
 blacklist_from *@*opaccess*
 blacklist_from *@*open.*
 blacklist_from *@*openaccess*
-blacklist_from *@*opensciencejournal*
 blacklist_from *@*openpub*
 blacklist_from *@*openres*
+blacklist_from *@*opensciencejournal*
 blacklist_from *@*organiz*
 blacklist_from *@*paper*
 blacklist_from *@*pathfind*
@@ -237,6 +238,7 @@ blacklist_from *@*polymer*
 blacklist_from *@*postel*
 blacklist_from *@*precision*
 blacklist_from *@*present*
+blacklist_from *@*product-*
 blacklist_from *@*przmeet*
 blacklist_from *@*psrp*
 blacklist_from *@*ptechzoa*
@@ -323,11 +325,11 @@ blacklist_from *@*sciencenet*
 blacklist_from *@*scienceonline*
 blacklist_from *@*scienceper*
 blacklist_from *@*sciencerep*
-blacklist_from *@*sciencesub*
 blacklist_from *@*sciencesi*
+blacklist_from *@*sciencesub*
+blacklist_from *@*scienl.*
 blacklist_from *@*scienlit*
 blacklist_from *@*scienly*
-blacklist_from *@*scienl.*
 blacklist_from *@*scienr*
 blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*
@@ -338,8 +340,8 @@ blacklist_from *@*scii*
 blacklist_from *@*scij*
 blacklist_from *@*scilit*
 blacklist_from *@*scimed*
-blacklist_from *@*scineu*
 blacklist_from *@*scinee*
+blacklist_from *@*scineu*
 blacklist_from *@*scioa*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*
@@ -362,15 +364,15 @@ blacklist_from *@*spsndr*
 blacklist_from *@*src*
 blacklist_from *@*stargr*
 blacklist_from *@*startech*
-blacklist_from *@*stm*
 blacklist_from *@*stem*
+blacklist_from *@*stm*
 blacklist_from *@*streams*
 blacklist_from *@*study*
 blacklist_from *@*stxuk*
-blacklist_from *@*synbio*
 blacklist_from *@*submi*
 blacklist_from *@*subportal*
 blacklist_from *@*supporting*
+blacklist_from *@*synbio*
 blacklist_from *@*synerg*
 blacklist_from *@*techdata*
 blacklist_from *@*techone*

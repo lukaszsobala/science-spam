@@ -1,3 +1,5 @@
+-conf
+-pub
 .biz
 .email
 .live
@@ -5,8 +7,6 @@
 .online
 .pro
 .vip
--conf
--pub
 aaphysiol
 abc
 acadpub
@@ -15,8 +15,8 @@ acquaint
 adv-sci
 advsci
 ajae
-aliforn.
 ajonc
+aliforn.
 alsobro
 althoug.com
 amerigo.
@@ -34,8 +34,8 @@ austinpub
 authpub
 bentham
 bilpub
-biocell
 bioacc
+biocell
 biolife
 biomedg
 biomedr
@@ -88,8 +88,8 @@ datapath
 dataplan
 directive
 directve
-distares
 discov
+distares
 easyaca
 eclini
 ehub
@@ -105,6 +105,7 @@ explor
 fdnj
 feixiaodata
 finder
+fjopas
 fjr
 fluotics
 fncon
@@ -126,9 +127,9 @@ highered
 highscope
 hilaris
 hillpubli
-hspub
 hspc
 hspi
+hspub
 hubs
 iairias
 ichealthm
@@ -190,8 +191,8 @@ medarch
 medbd
 medgrid
 medicalar
-medicalres
 medicalj
+medicalres
 medicalsci
 medicinejournal.info
 medin
@@ -222,9 +223,9 @@ onlinesci
 opaccess
 open.
 openaccess
-opensciencejournal
 openpub
 openres
+opensciencejournal
 organiz
 paper
 pathfind
@@ -237,6 +238,7 @@ polymer
 postel
 precision
 present
+product-
 przmeet
 psrp
 ptechzoa
@@ -323,11 +325,11 @@ sciencenet
 scienceonline
 scienceper
 sciencerep
-sciencesub
 sciencesi
+sciencesub
+scienl.
 scienlit
 scienly
-scienl.
 scienr
 scientific-
 scientificpub
@@ -338,8 +340,8 @@ scii
 scij
 scilit
 scimed
-scineu
 scinee
+scineu
 scioa
 scires
 scitech
@@ -362,15 +364,15 @@ spsndr
 src
 stargr
 startech
-stm
 stem
+stm
 streams
 study
 stxuk
-synbio
 submi
 subportal
 supporting
+synbio
 synerg
 techdata
 techone
