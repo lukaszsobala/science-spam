@@ -173,6 +173,7 @@ blacklist_from *@*journalsr*
 blacklist_from *@*jowmns*
 blacklist_from *@*jpsybehav*
 blacklist_from *@*jrnl*
+blacklist_from *@*jscience*
 blacklist_from *@*jscimed*
 blacklist_from *@*jsm*
 blacklist_from *@*juniper*

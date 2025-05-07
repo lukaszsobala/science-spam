@@ -173,6 +173,7 @@ journalsr
 jowmns
 jpsybehav
 jrnl
+jscience
 jscimed
 jsm
 juniper
