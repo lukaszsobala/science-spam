@@ -100,6 +100,7 @@ epic
 eresearch
 eurasia
 event2
+events.com
 eventsu
 explor
 fdnj
@@ -120,6 +121,7 @@ globalc
 globalm
 gmexpo
 grmsd
+groupev
 gtu.edu.tr
 gynobstet
 heighpub
@@ -184,6 +186,7 @@ lifesa
 lmsii
 longdom
 lupine
+magnusgr
 mahc
 manurev
 manuscripto
@@ -208,6 +211,7 @@ mopenj
 mpbl
 muht
 nano-t
+nanost
 nassg
 netwrk
 nexus
@@ -320,6 +324,7 @@ scicase
 scicon
 science-edu.eu
 science-europe
+sciencecen
 sciencecon
 sciencedoc
 sciencenet

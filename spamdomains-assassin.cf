@@ -100,6 +100,7 @@ blacklist_from *@*epic*
 blacklist_from *@*eresearch*
 blacklist_from *@*eurasia*
 blacklist_from *@*event2*
+blacklist_from *@*events.com
 blacklist_from *@*eventsu*
 blacklist_from *@*explor*
 blacklist_from *@*fdnj*
@@ -120,6 +121,7 @@ blacklist_from *@*globalc*
 blacklist_from *@*globalm*
 blacklist_from *@*gmexpo*
 blacklist_from *@*grmsd*
+blacklist_from *@*groupev*
 blacklist_from *@*gtu.edu.tr
 blacklist_from *@*gynobstet*
 blacklist_from *@*heighpub*
@@ -184,6 +186,7 @@ blacklist_from *@*lifesa*
 blacklist_from *@*lmsii*
 blacklist_from *@*longdom*
 blacklist_from *@*lupine*
+blacklist_from *@*magnusgr*
 blacklist_from *@*mahc*
 blacklist_from *@*manurev*
 blacklist_from *@*manuscripto*
@@ -208,6 +211,7 @@ blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
 blacklist_from *@*muht*
 blacklist_from *@*nano-t*
+blacklist_from *@*nanost*
 blacklist_from *@*nassg*
 blacklist_from *@*netwrk*
 blacklist_from *@*nexus*
@@ -320,6 +324,7 @@ blacklist_from *@*scicase*
 blacklist_from *@*scicon*
 blacklist_from *@*science-edu.eu
 blacklist_from *@*science-europe*
+blacklist_from *@*sciencecen*
 blacklist_from *@*sciencecon*
 blacklist_from *@*sciencedoc*
 blacklist_from *@*sciencenet*
