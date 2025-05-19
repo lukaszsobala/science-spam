@@ -19,6 +19,7 @@ blacklist_from *@*ajonc*
 blacklist_from *@*aliforn.*
 blacklist_from *@*alsobro*
 blacklist_from *@*althoug.com
+blacklist_from *@*amdsc*
 blacklist_from *@*amerigo.*
 blacklist_from *@*aminer*
 blacklist_from *@*amjece*
@@ -134,6 +135,7 @@ blacklist_from *@*hspi*
 blacklist_from *@*hspub*
 blacklist_from *@*hubs*
 blacklist_from *@*iairias*
+blacklist_from *@*icbal*
 blacklist_from *@*ichealthm*
 blacklist_from *@*iconfeecs*
 blacklist_from *@*iddst*
@@ -149,6 +151,7 @@ blacklist_from *@*indexed*
 blacklist_from *@*indexmanu*
 blacklist_from *@*inospin*
 blacklist_from *@*insightful*
+blacklist_from *@*intcm*
 blacklist_from *@*intelh*
 blacklist_from *@*intellect*
 blacklist_from *@*intj3*

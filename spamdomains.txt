@@ -19,6 +19,7 @@ ajonc
 aliforn.
 alsobro
 althoug.com
+amdsc
 amerigo.
 aminer
 amjece
@@ -134,6 +135,7 @@ hspi
 hspub
 hubs
 iairias
+icbal
 ichealthm
 iconfeecs
 iddst
@@ -149,6 +151,7 @@ indexed
 indexmanu
 inospin
 insightful
+intcm
 intelh
 intellect
 intj3
