@@ -159,6 +159,7 @@ blacklist_from *@*intjt*
 blacklist_from *@*intl-congress*
 blacklist_from *@*inventions*
 blacklist_from *@*invites*
+blacklist_from *@*inzipo*
 blacklist_from *@*iris-*
 blacklist_from *@*irisopen*
 blacklist_from *@*japer*
@@ -207,6 +208,7 @@ blacklist_from *@*medpub*
 blacklist_from *@*medschol*
 blacklist_from *@*medsci*
 blacklist_from *@*meetings*
+blacklist_from *@*meets.*
 blacklist_from *@*meghaz*
 blacklist_from *@*meralpub*
 blacklist_from *@*mks*
@@ -241,6 +243,7 @@ blacklist_from *@*peerres*
 blacklist_from *@*phenosys*
 blacklist_from *@*phms*
 blacklist_from *@*plantsj*
+blacklist_from *@*poledets*
 blacklist_from *@*polscientific*
 blacklist_from *@*polymer*
 blacklist_from *@*postel*

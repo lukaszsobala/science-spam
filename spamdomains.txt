@@ -159,6 +159,7 @@ intjt
 intl-congress
 inventions
 invites
+inzipo
 iris-
 irisopen
 japer
@@ -207,6 +208,7 @@ medpub
 medschol
 medsci
 meetings
+meets.
 meghaz
 meralpub
 mks
@@ -241,6 +243,7 @@ peerres
 phenosys
 phms
 plantsj
+poledets
 polscientific
 polymer
 postel
