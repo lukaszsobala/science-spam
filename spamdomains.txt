@@ -30,7 +30,7 @@ apmascongress
 articles
 artikle
 auctore
-austinjournal
+austinjou
 austinpub
 authpub
 bentham
@@ -173,6 +173,7 @@ jofm
 jomh.net
 jopz
 jou.com
+journal.info
 journalres
 journalsmailer
 journalsr
@@ -202,8 +203,8 @@ medicalar
 medicalj
 medicalres
 medicalsci
-medicinejournal.info
 medin
+medoaa
 medpub
 medschol
 medsci
@@ -225,6 +226,7 @@ nhub
 nthub
 oaaustin
 oaj
+oascient
 omethu
 onlinea
 onlinem
@@ -330,6 +332,7 @@ scicase
 scicon
 science-edu.eu
 science-europe
+science.info
 sciencecen
 sciencecon
 sciencedoc

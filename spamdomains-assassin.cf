@@ -30,7 +30,7 @@ blacklist_from *@*apmascongress*
 blacklist_from *@*articles*
 blacklist_from *@*artikle*
 blacklist_from *@*auctore*
-blacklist_from *@*austinjournal*
+blacklist_from *@*austinjou*
 blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
 blacklist_from *@*bentham*
@@ -173,6 +173,7 @@ blacklist_from *@*jofm*
 blacklist_from *@*jomh.net
 blacklist_from *@*jopz*
 blacklist_from *@*jou.com
+blacklist_from *@*journal.info
 blacklist_from *@*journalres*
 blacklist_from *@*journalsmailer*
 blacklist_from *@*journalsr*
@@ -202,8 +203,8 @@ blacklist_from *@*medicalar*
 blacklist_from *@*medicalj*
 blacklist_from *@*medicalres*
 blacklist_from *@*medicalsci*
-blacklist_from *@*medicinejournal.info
 blacklist_from *@*medin*
+blacklist_from *@*medoaa*
 blacklist_from *@*medpub*
 blacklist_from *@*medschol*
 blacklist_from *@*medsci*
@@ -225,6 +226,7 @@ blacklist_from *@*nhub*
 blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
+blacklist_from *@*oascient*
 blacklist_from *@*omethu*
 blacklist_from *@*onlinea*
 blacklist_from *@*onlinem*
@@ -330,6 +332,7 @@ blacklist_from *@*scicase*
 blacklist_from *@*scicon*
 blacklist_from *@*science-edu.eu
 blacklist_from *@*science-europe*
+blacklist_from *@*science.info
 blacklist_from *@*sciencecen*
 blacklist_from *@*sciencecon*
 blacklist_from *@*sciencedoc*
