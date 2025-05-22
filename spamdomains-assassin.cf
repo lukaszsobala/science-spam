@@ -96,6 +96,7 @@ blacklist_from *@*eclini*
 blacklist_from *@*ehub*
 blacklist_from *@*engiconf*
 blacklist_from *@*engll*
+blacklist_from *@*enpress*
 blacklist_from *@*eoics*
 blacklist_from *@*epic*
 blacklist_from *@*eresearch*
@@ -261,6 +262,7 @@ blacklist_from *@*pubcomp*
 blacklist_from *@*pubinsi*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
+blacklist_from *@*pubmail*
 blacklist_from *@*pubmanu*
 blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
