@@ -267,6 +267,7 @@ blacklist_from *@*pubmanu*
 blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
+blacklist_from *@*pulp*
 blacklist_from *@*qftech*
 blacklist_from *@*qingfei*
 blacklist_from *@*quality*
@@ -310,6 +311,7 @@ blacklist_from *@*researchema*
 blacklist_from *@*researchent*
 blacklist_from *@*researchf*
 blacklist_from *@*researchgu*
+blacklist_from *@*researching*
 blacklist_from *@*researchjo*
 blacklist_from *@*researcho*
 blacklist_from *@*researchp*
@@ -388,6 +390,7 @@ blacklist_from *@*study*
 blacklist_from *@*stxuk*
 blacklist_from *@*submi*
 blacklist_from *@*subportal*
+blacklist_from *@*summits*
 blacklist_from *@*supporting*
 blacklist_from *@*synbio*
 blacklist_from *@*synerg*
