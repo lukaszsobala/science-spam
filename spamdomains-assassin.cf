@@ -6,6 +6,7 @@ blacklist_from *@*.live
 blacklist_from *@*.mom
 blacklist_from *@*.online
 blacklist_from *@*.pro
+blacklist_from *@*.top
 blacklist_from *@*.vip
 blacklist_from *@*aaphysiol*
 blacklist_from *@*abc*
@@ -158,6 +159,7 @@ blacklist_from *@*intellect*
 blacklist_from *@*intj3*
 blacklist_from *@*intjt*
 blacklist_from *@*intl-congress*
+blacklist_from *@*intl-symposium*
 blacklist_from *@*inventions*
 blacklist_from *@*invites*
 blacklist_from *@*inzipo*
@@ -259,6 +261,7 @@ blacklist_from *@*ptechzoa*
 blacklist_from *@*ptz*
 blacklist_from *@*pub-*
 blacklist_from *@*pubcomp*
+blacklist_from *@*pubgroup*
 blacklist_from *@*pubinsi*
 blacklist_from *@*pubint*
 blacklist_from *@*publish*
