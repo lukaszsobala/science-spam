@@ -2,6 +2,7 @@
 -pub
 .biz
 .email
+.homes
 .live
 .mom
 .online
@@ -51,6 +52,7 @@ bonview
 cancercases
 canutillo
 career
+careers.in
 caseart
 casejou
 casepub
@@ -74,6 +76,7 @@ conferencemeets
 conferences
 conforum
 congress
+connect.in
 connects
 conscieng
 contact-logs
@@ -95,6 +98,8 @@ distares
 easyaca
 eclini
 ehub
+elasticemail
+email.net
 engiconf
 engll
 enpress
@@ -120,6 +125,8 @@ fortuns
 fortus
 forums.info
 foryou
+fosterconf
+freelance
 globalc
 globalm
 gmexpo
@@ -220,6 +227,7 @@ mopenj
 mpbl
 muht
 nano-t
+nanoconnect
 nanost
 nassg
 netwrk
@@ -370,6 +378,7 @@ scitech
 searcher
 select
 send
+sendyemail
 service-alert-center
 shub
 signosis
@@ -408,6 +417,7 @@ upjac
 valinet
 valleolona
 vanguard
+viking
 virongy
 wcid
 wcx
@@ -418,3 +428,4 @@ wjoa
 worldgene
 wrc-china
 wwys
+zeropales

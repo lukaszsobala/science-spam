@@ -2,6 +2,7 @@ blacklist_from *@*-conf*
 blacklist_from *@*-pub*
 blacklist_from *@*.biz
 blacklist_from *@*.email
+blacklist_from *@*.homes
 blacklist_from *@*.live
 blacklist_from *@*.mom
 blacklist_from *@*.online
@@ -51,6 +52,7 @@ blacklist_from *@*bonview*
 blacklist_from *@*cancercases*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
+blacklist_from *@*careers.in
 blacklist_from *@*caseart*
 blacklist_from *@*casejou*
 blacklist_from *@*casepub*
@@ -74,6 +76,7 @@ blacklist_from *@*conferencemeets*
 blacklist_from *@*conferences*
 blacklist_from *@*conforum*
 blacklist_from *@*congress*
+blacklist_from *@*connect.in
 blacklist_from *@*connects*
 blacklist_from *@*conscieng*
 blacklist_from *@*contact-logs*
@@ -95,6 +98,8 @@ blacklist_from *@*distares*
 blacklist_from *@*easyaca*
 blacklist_from *@*eclini*
 blacklist_from *@*ehub*
+blacklist_from *@*elasticemail*
+blacklist_from *@*email.net
 blacklist_from *@*engiconf*
 blacklist_from *@*engll*
 blacklist_from *@*enpress*
@@ -120,6 +125,8 @@ blacklist_from *@*fortuns*
 blacklist_from *@*fortus*
 blacklist_from *@*forums.info
 blacklist_from *@*foryou*
+blacklist_from *@*fosterconf*
+blacklist_from *@*freelance*
 blacklist_from *@*globalc*
 blacklist_from *@*globalm*
 blacklist_from *@*gmexpo*
@@ -220,6 +227,7 @@ blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
 blacklist_from *@*muht*
 blacklist_from *@*nano-t*
+blacklist_from *@*nanoconnect*
 blacklist_from *@*nanost*
 blacklist_from *@*nassg*
 blacklist_from *@*netwrk*
@@ -370,6 +378,7 @@ blacklist_from *@*scitech*
 blacklist_from *@*searcher*
 blacklist_from *@*select*
 blacklist_from *@*send*
+blacklist_from *@*sendyemail*
 blacklist_from *@*service-alert-center*
 blacklist_from *@*shub*
 blacklist_from *@*signosis*
@@ -408,6 +417,7 @@ blacklist_from *@*upjac*
 blacklist_from *@*valinet*
 blacklist_from *@*valleolona*
 blacklist_from *@*vanguard*
+blacklist_from *@*viking*
 blacklist_from *@*virongy*
 blacklist_from *@*wcid*
 blacklist_from *@*wcx*
@@ -418,3 +428,4 @@ blacklist_from *@*wjoa*
 blacklist_from *@*worldgene*
 blacklist_from *@*wrc-china*
 blacklist_from *@*wwys*
+blacklist_from *@*zeropales*
