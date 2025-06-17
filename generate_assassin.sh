@@ -12,7 +12,7 @@ INPUT_FILE="spamdomains.txt"
 OUTPUT_FILE="spamdomains-assassin.cf"
 
 # First, sort the input file alphabetically and remove empty lines in-place
-export LC_ALL=C # Set locale to C for consistent soritng of special characters
+export LC_ALL=C # Set locale to C for consistent sorting of special characters
 sort -o "${INPUT_FILE}" "${INPUT_FILE}" 
 sed -i '/^[[:space:]]*$/d' "${INPUT_FILE}"
 
@@ -20,7 +20,7 @@ sed -i '/^[[:space:]]*$/d' "${INPUT_FILE}"
 #  1. Add "blacklist_from *@*" prefix to each domain
 #  2. Add "*" suffix to each line
 #  3. Remove trailing "*" if line already contains "*" and a dot
-#  4. Replace trailing dot with ".*"
+#  4. Replace any trailing dots with ".*"
 
 sed -e 's/^/blacklist_from\ \*\@\*/g' \
     -e 's/$/\*/g' \

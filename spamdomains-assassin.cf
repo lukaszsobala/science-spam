@@ -10,12 +10,12 @@ blacklist_from *@*.pro
 blacklist_from *@*.top
 blacklist_from *@*.vip
 blacklist_from *@*aaphysiol*
-blacklist_from *@*abc*
 blacklist_from *@*acadpub*
 blacklist_from *@*accsci*
 blacklist_from *@*acquaint*
 blacklist_from *@*adv-sci*
 blacklist_from *@*advsci*
+blacklist_from *@*agrsci*
 blacklist_from *@*ajae*
 blacklist_from *@*ajonc*
 blacklist_from *@*aliforn.*
@@ -37,6 +37,7 @@ blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
 blacklist_from *@*bentham*
 blacklist_from *@*bilpub*
+blacklist_from *@*bio.org
 blacklist_from *@*bioacc*
 blacklist_from *@*biocell*
 blacklist_from *@*biolife*
@@ -67,6 +68,7 @@ blacklist_from *@*clinicsearch*
 blacklist_from *@*clinm*
 blacklist_from *@*clinsc*
 blacklist_from *@*cmepub*
+blacklist_from *@*com.tr
 blacklist_from *@*comittee*
 blacklist_from *@*committee*
 blacklist_from *@*compubio*
@@ -102,7 +104,6 @@ blacklist_from *@*elasticemail*
 blacklist_from *@*email.net
 blacklist_from *@*engiconf*
 blacklist_from *@*engll*
-blacklist_from *@*enpress*
 blacklist_from *@*eoics*
 blacklist_from *@*epic*
 blacklist_from *@*eresearch*
@@ -343,6 +344,7 @@ blacklist_from *@*sanyoubio*
 blacklist_from *@*scholarl*
 blacklist_from *@*scholars*
 blacklist_from *@*sciani*
+blacklist_from *@*scibio*
 blacklist_from *@*scicase*
 blacklist_from *@*scicon*
 blacklist_from *@*science-edu.eu
@@ -360,6 +362,7 @@ blacklist_from *@*sciencesub*
 blacklist_from *@*scienl.*
 blacklist_from *@*scienlit*
 blacklist_from *@*scienly*
+blacklist_from *@*scienpress*
 blacklist_from *@*scienr*
 blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*
@@ -406,6 +409,7 @@ blacklist_from *@*summits*
 blacklist_from *@*supporting*
 blacklist_from *@*synbio*
 blacklist_from *@*synerg*
+blacklist_from *@*tanlic*
 blacklist_from *@*techdata*
 blacklist_from *@*techone*
 blacklist_from *@*techsci*

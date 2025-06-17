@@ -10,12 +10,12 @@
 .top
 .vip
 aaphysiol
-abc
 acadpub
 accsci
 acquaint
 adv-sci
 advsci
+agrsci
 ajae
 ajonc
 aliforn.
@@ -37,6 +37,7 @@ austinpub
 authpub
 bentham
 bilpub
+bio.org
 bioacc
 biocell
 biolife
@@ -67,6 +68,7 @@ clinicsearch
 clinm
 clinsc
 cmepub
+com.tr
 comittee
 committee
 compubio
@@ -102,7 +104,6 @@ elasticemail
 email.net
 engiconf
 engll
-enpress
 eoics
 epic
 eresearch
@@ -343,6 +344,7 @@ sanyoubio
 scholarl
 scholars
 sciani
+scibio
 scicase
 scicon
 science-edu.eu
@@ -360,6 +362,7 @@ sciencesub
 scienl.
 scienlit
 scienly
+scienpress
 scienr
 scientific-
 scientificpub
@@ -406,6 +409,7 @@ summits
 supporting
 synbio
 synerg
+tanlic
 techdata
 techone
 techsci
