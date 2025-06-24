@@ -50,6 +50,7 @@ blacklist_from *@*biostc*
 blacklist_from *@*biostm*
 blacklist_from *@*bmol*
 blacklist_from *@*bonview*
+blacklist_from *@*c2p*
 blacklist_from *@*cancercases*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
@@ -439,4 +440,5 @@ blacklist_from *@*wjoa*
 blacklist_from *@*worldgene*
 blacklist_from *@*wrc-china*
 blacklist_from *@*wwys*
+blacklist_from *@*xpertnetwork*
 blacklist_from *@*zeropales*
