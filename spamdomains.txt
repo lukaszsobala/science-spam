@@ -9,6 +9,7 @@
 .pro
 .top
 .vip
+10times
 aaphysiol
 acadpub
 accsci
@@ -18,7 +19,9 @@ advsci
 agrsci
 ajae
 ajonc
+albedo
 aliforn.
+alliedacad
 alsobro
 althoug.com
 amdsc
@@ -32,9 +35,11 @@ apmascongress
 articles
 artikle
 auctore
+auragen
 austinjou
 austinpub
 authpub
+axiom
 bentham
 bilpub
 bio.org
@@ -103,6 +108,7 @@ easyaca
 eclini
 ehub
 elasticemail
+elops.org
 email.net
 engiconf
 engll
@@ -131,8 +137,10 @@ foryou
 fosterconf
 freelance
 gatherings.com
+genvio
 globalc
 globalm
+globals
 gmexpo
 grmsd
 groupev
@@ -165,6 +173,7 @@ imrpress
 indexed
 indexmanu
 inospin
+inovine
 insightful
 intcm
 intelh
@@ -178,6 +187,7 @@ invites
 inzipo
 iris-
 irisopen
+iser.co
 japer
 jber
 jeee
@@ -201,6 +211,7 @@ jscimed
 jsm
 juniper
 jwros
+kindcongr
 knowledge
 library.com
 lifesa
@@ -231,6 +242,7 @@ meralpub
 mks
 mopenj
 mpbl
+mscholar
 muht
 nano-t
 nanoconnect
@@ -244,6 +256,7 @@ nthub
 oaaustin
 oaj
 oascient
+olcint
 omethu
 onlinea
 onlinem
@@ -269,6 +282,7 @@ portss.net
 postel
 precision
 present
+prism
 product-
 przmeet
 psrp
@@ -286,6 +300,7 @@ pubmedj
 pubms
 pubreq
 pulp
+pulsus
 qftech
 qingfei
 quality
@@ -375,6 +390,7 @@ scientific-
 scientificpub
 scientificres
 scientifictext
+sciepub
 scigroup
 scii
 scij
@@ -385,6 +401,7 @@ scineu
 scioa
 scires
 scitech
+sclepub
 searcher
 select
 send
@@ -417,14 +434,17 @@ summits
 supporting
 synbio
 synerg
+synopsis
 tanlic
 techdata
 techone
 techsci
 timbc
+timessci
 tlooto
 torrestech
 unitedevent
+unitedsci
 upjac
 valinet
 valleolona
@@ -438,7 +458,12 @@ whioce
 wjgnet
 wjoa
 worldgene
+worldres
 wrc-china
+wrfer
 wwys
+xpertmeet
 xpertnetwork
+xpertsmeet
+xpertsnetwork
 zeropales

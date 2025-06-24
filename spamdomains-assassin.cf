@@ -9,6 +9,7 @@ blacklist_from *@*.online
 blacklist_from *@*.pro
 blacklist_from *@*.top
 blacklist_from *@*.vip
+blacklist_from *@*10times*
 blacklist_from *@*aaphysiol*
 blacklist_from *@*acadpub*
 blacklist_from *@*accsci*
@@ -18,7 +19,9 @@ blacklist_from *@*advsci*
 blacklist_from *@*agrsci*
 blacklist_from *@*ajae*
 blacklist_from *@*ajonc*
+blacklist_from *@*albedo*
 blacklist_from *@*aliforn.*
+blacklist_from *@*alliedacad*
 blacklist_from *@*alsobro*
 blacklist_from *@*althoug.com
 blacklist_from *@*amdsc*
@@ -32,9 +35,11 @@ blacklist_from *@*apmascongress*
 blacklist_from *@*articles*
 blacklist_from *@*artikle*
 blacklist_from *@*auctore*
+blacklist_from *@*auragen*
 blacklist_from *@*austinjou*
 blacklist_from *@*austinpub*
 blacklist_from *@*authpub*
+blacklist_from *@*axiom*
 blacklist_from *@*bentham*
 blacklist_from *@*bilpub*
 blacklist_from *@*bio.org
@@ -103,6 +108,7 @@ blacklist_from *@*easyaca*
 blacklist_from *@*eclini*
 blacklist_from *@*ehub*
 blacklist_from *@*elasticemail*
+blacklist_from *@*elops.org
 blacklist_from *@*email.net
 blacklist_from *@*engiconf*
 blacklist_from *@*engll*
@@ -131,8 +137,10 @@ blacklist_from *@*foryou*
 blacklist_from *@*fosterconf*
 blacklist_from *@*freelance*
 blacklist_from *@*gatherings.com
+blacklist_from *@*genvio*
 blacklist_from *@*globalc*
 blacklist_from *@*globalm*
+blacklist_from *@*globals*
 blacklist_from *@*gmexpo*
 blacklist_from *@*grmsd*
 blacklist_from *@*groupev*
@@ -165,6 +173,7 @@ blacklist_from *@*imrpress*
 blacklist_from *@*indexed*
 blacklist_from *@*indexmanu*
 blacklist_from *@*inospin*
+blacklist_from *@*inovine*
 blacklist_from *@*insightful*
 blacklist_from *@*intcm*
 blacklist_from *@*intelh*
@@ -178,6 +187,7 @@ blacklist_from *@*invites*
 blacklist_from *@*inzipo*
 blacklist_from *@*iris-*
 blacklist_from *@*irisopen*
+blacklist_from *@*iser.co
 blacklist_from *@*japer*
 blacklist_from *@*jber*
 blacklist_from *@*jeee*
@@ -201,6 +211,7 @@ blacklist_from *@*jscimed*
 blacklist_from *@*jsm*
 blacklist_from *@*juniper*
 blacklist_from *@*jwros*
+blacklist_from *@*kindcongr*
 blacklist_from *@*knowledge*
 blacklist_from *@*library.com
 blacklist_from *@*lifesa*
@@ -231,6 +242,7 @@ blacklist_from *@*meralpub*
 blacklist_from *@*mks*
 blacklist_from *@*mopenj*
 blacklist_from *@*mpbl*
+blacklist_from *@*mscholar*
 blacklist_from *@*muht*
 blacklist_from *@*nano-t*
 blacklist_from *@*nanoconnect*
@@ -244,6 +256,7 @@ blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
 blacklist_from *@*oascient*
+blacklist_from *@*olcint*
 blacklist_from *@*omethu*
 blacklist_from *@*onlinea*
 blacklist_from *@*onlinem*
@@ -269,6 +282,7 @@ blacklist_from *@*portss.net
 blacklist_from *@*postel*
 blacklist_from *@*precision*
 blacklist_from *@*present*
+blacklist_from *@*prism*
 blacklist_from *@*product-*
 blacklist_from *@*przmeet*
 blacklist_from *@*psrp*
@@ -286,6 +300,7 @@ blacklist_from *@*pubmedj*
 blacklist_from *@*pubms*
 blacklist_from *@*pubreq*
 blacklist_from *@*pulp*
+blacklist_from *@*pulsus*
 blacklist_from *@*qftech*
 blacklist_from *@*qingfei*
 blacklist_from *@*quality*
@@ -375,6 +390,7 @@ blacklist_from *@*scientific-*
 blacklist_from *@*scientificpub*
 blacklist_from *@*scientificres*
 blacklist_from *@*scientifictext*
+blacklist_from *@*sciepub*
 blacklist_from *@*scigroup*
 blacklist_from *@*scii*
 blacklist_from *@*scij*
@@ -385,6 +401,7 @@ blacklist_from *@*scineu*
 blacklist_from *@*scioa*
 blacklist_from *@*scires*
 blacklist_from *@*scitech*
+blacklist_from *@*sclepub*
 blacklist_from *@*searcher*
 blacklist_from *@*select*
 blacklist_from *@*send*
@@ -417,14 +434,17 @@ blacklist_from *@*summits*
 blacklist_from *@*supporting*
 blacklist_from *@*synbio*
 blacklist_from *@*synerg*
+blacklist_from *@*synopsis*
 blacklist_from *@*tanlic*
 blacklist_from *@*techdata*
 blacklist_from *@*techone*
 blacklist_from *@*techsci*
 blacklist_from *@*timbc*
+blacklist_from *@*timessci*
 blacklist_from *@*tlooto*
 blacklist_from *@*torrestech*
 blacklist_from *@*unitedevent*
+blacklist_from *@*unitedsci*
 blacklist_from *@*upjac*
 blacklist_from *@*valinet*
 blacklist_from *@*valleolona*
@@ -438,7 +458,12 @@ blacklist_from *@*whioce*
 blacklist_from *@*wjgnet*
 blacklist_from *@*wjoa*
 blacklist_from *@*worldgene*
+blacklist_from *@*worldres*
 blacklist_from *@*wrc-china*
+blacklist_from *@*wrfer*
 blacklist_from *@*wwys*
+blacklist_from *@*xpertmeet*
 blacklist_from *@*xpertnetwork*
+blacklist_from *@*xpertsmeet*
+blacklist_from *@*xpertsnetwork*
 blacklist_from *@*zeropales*
