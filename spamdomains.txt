@@ -84,6 +84,7 @@ conscieng
 contact-logs
 continuum
 contrib
+council.com
 covaris
 crgmeetings
 crimson
@@ -128,6 +129,7 @@ forums.info
 foryou
 fosterconf
 freelance
+gatherings.com
 globalc
 globalm
 gmexpo
@@ -136,6 +138,7 @@ groupev
 gtu.edu.tr
 gynobstet
 heighpub
+heraldgather
 highered
 highscope
 hilaris
@@ -146,6 +149,7 @@ hspub
 hubs
 iairias
 icbal
+icbecb
 ichealthm
 iconfeecs
 iddst
@@ -260,6 +264,7 @@ plantsj
 poledets
 polscientific
 polymer
+portss.net
 postel
 precision
 present
@@ -339,6 +344,7 @@ restech
 review-es
 review-res
 reviewes
+reviewreport
 reviewres
 sanyoubio
 scholarl
@@ -392,6 +398,7 @@ smjoa
 smjour
 speakcon
 speakercon
+speakercouncil
 speakerscon
 sphere
 spsndr

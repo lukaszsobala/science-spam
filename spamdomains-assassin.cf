@@ -84,6 +84,7 @@ blacklist_from *@*conscieng*
 blacklist_from *@*contact-logs*
 blacklist_from *@*continuum*
 blacklist_from *@*contrib*
+blacklist_from *@*council.com
 blacklist_from *@*covaris*
 blacklist_from *@*crgmeetings*
 blacklist_from *@*crimson*
@@ -128,6 +129,7 @@ blacklist_from *@*forums.info
 blacklist_from *@*foryou*
 blacklist_from *@*fosterconf*
 blacklist_from *@*freelance*
+blacklist_from *@*gatherings.com
 blacklist_from *@*globalc*
 blacklist_from *@*globalm*
 blacklist_from *@*gmexpo*
@@ -136,6 +138,7 @@ blacklist_from *@*groupev*
 blacklist_from *@*gtu.edu.tr
 blacklist_from *@*gynobstet*
 blacklist_from *@*heighpub*
+blacklist_from *@*heraldgather*
 blacklist_from *@*highered*
 blacklist_from *@*highscope*
 blacklist_from *@*hilaris*
@@ -146,6 +149,7 @@ blacklist_from *@*hspub*
 blacklist_from *@*hubs*
 blacklist_from *@*iairias*
 blacklist_from *@*icbal*
+blacklist_from *@*icbecb*
 blacklist_from *@*ichealthm*
 blacklist_from *@*iconfeecs*
 blacklist_from *@*iddst*
@@ -260,6 +264,7 @@ blacklist_from *@*plantsj*
 blacklist_from *@*poledets*
 blacklist_from *@*polscientific*
 blacklist_from *@*polymer*
+blacklist_from *@*portss.net
 blacklist_from *@*postel*
 blacklist_from *@*precision*
 blacklist_from *@*present*
@@ -339,6 +344,7 @@ blacklist_from *@*restech*
 blacklist_from *@*review-es*
 blacklist_from *@*review-res*
 blacklist_from *@*reviewes*
+blacklist_from *@*reviewreport*
 blacklist_from *@*reviewres*
 blacklist_from *@*sanyoubio*
 blacklist_from *@*scholarl*
@@ -392,6 +398,7 @@ blacklist_from *@*smjoa*
 blacklist_from *@*smjour*
 blacklist_from *@*speakcon*
 blacklist_from *@*speakercon*
+blacklist_from *@*speakercouncil*
 blacklist_from *@*speakerscon*
 blacklist_from *@*sphere*
 blacklist_from *@*spsndr*
