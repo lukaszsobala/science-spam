@@ -18,13 +18,11 @@ sed -i '/^[[:space:]]*$/d' "${INPUT_FILE}"
 
 # Process the domains with the following transformations:
 #  1. Add "blacklist_from *@*" prefix to each domain
-#  2. Add "*" suffix to each line
-#  3. Remove trailing "*" if line already contains "*" and a dot
-#  4. Replace any trailing dots with ".*"
+#  2. Add "*" suffix to each line that does not already contain a dot
+#  3. Replace any trailing dots with ".*"
 
 sed -e 's/^/blacklist_from\ \*\@\*/g' \
-    -e 's/$/\*/g' \
-    -e '/\*.*\./s/\*$//' \
+    -e '/\./!s/$/\*/g' \
     -e '/\.$/s/\./\.\*/' \
     "${INPUT_FILE}" > "${OUTPUT_FILE}"
 

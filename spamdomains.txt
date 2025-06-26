@@ -59,7 +59,6 @@ c2p
 cancercases
 canutillo
 career
-careers.in
 caseart
 casejou
 casepub

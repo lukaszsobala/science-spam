@@ -59,7 +59,6 @@ blacklist_from *@*c2p*
 blacklist_from *@*cancercases*
 blacklist_from *@*canutillo*
 blacklist_from *@*career*
-blacklist_from *@*careers.in
 blacklist_from *@*caseart*
 blacklist_from *@*casejou*
 blacklist_from *@*casepub*
