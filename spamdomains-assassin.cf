@@ -252,6 +252,7 @@ blacklist_from *@*netwrk*
 blacklist_from *@*nexus*
 blacklist_from *@*ngapor*
 blacklist_from *@*nhub*
+blacklist_from *@*nsci.net
 blacklist_from *@*nthub*
 blacklist_from *@*oaaustin*
 blacklist_from *@*oaj*
