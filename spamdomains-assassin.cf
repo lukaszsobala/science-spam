@@ -108,7 +108,6 @@ blacklist_from *@*eclini*
 blacklist_from *@*ehub*
 blacklist_from *@*elasticemail*
 blacklist_from *@*elops.org
-blacklist_from *@*email.net
 blacklist_from *@*engiconf*
 blacklist_from *@*engll*
 blacklist_from *@*eoics*
@@ -212,6 +211,7 @@ blacklist_from *@*juniper*
 blacklist_from *@*jwros*
 blacklist_from *@*kindcongr*
 blacklist_from *@*knowledge*
+blacklist_from *@*kosmospub*
 blacklist_from *@*library.com
 blacklist_from *@*lifesa*
 blacklist_from *@*lmsii*
